@@ -13,5 +13,3 @@ Requires ansible-aur, install with
 - Bootstrap: For first time setup, installing all packages and initial configs
 
 - Daily: Daily state to keep up to date
-
-- Backup: Run as needed to backup files to /srv/
