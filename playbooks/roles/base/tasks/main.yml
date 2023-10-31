@@ -1,0 +1,34 @@
+- name: add ssh key for simone
+  authorized_key:
+    user: n1ce
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKMHjDhRKdlFiL+zP5UCJwRImnUv/PMec/cSX7wwIhr8 ansible"
+
+- name: generate sshd_config file from template
+  tags: ssh
+  template:
+    src: files/sshd_config.j2
+    dest: /etc/ssh/sshd_config
+    owner: root
+    group: root
+    mode: 0644
+  notify: restart_sshd
+
+- name: add n1ce to sudoers
+  tags: always 
+  copy:
+    src: files/sudoer_n1ce
+    dest: /etc/sudoers.d/n1ce
+    owner: root
+    group: root
+    mode: 0440
+
+- user: name=aur_builder
+
+- name: Add aur_builder to build stuff
+  lineinfile:
+     path: /etc/sudoers.d/aur_builder-allow-to-sudo-pacman
+     state: present
+     line: "aur_builder ALL=(ALL) NOPASSWD: /usr/bin/pacman"
+     validate: /usr/sbin/visudo -cf %s
+     create: yes
+

@@ -1,0 +1,1301 @@
+Mono path[0] = '/home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed'
+Mono config path = '/home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/etc'
+Preloaded 'libsteam_api.so'
+Display 0 '27G2WG3- 27"': 1920x1080 (primary device).
+Display 1 'LG FULL HD 22"': 1920x1080 (secondary device).
+Display 2 'DELL P2312H 23"': 1080x1920 (secondary device).
+Unable to load player prefs
+Desktop is 1920 x 1080 @ 165 Hz
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: AMD Radeon RX 6650 XT (navi23, LLVM 16.0.6, DRM 3.54, 6.5.6-arch2-1)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 23.2.1-arch1.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_
+clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_
+buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+ GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_in
+t64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 16005168
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.068 seconds
+Default vsync count 0
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 165 Hz
+UnloadTime: 0.502787 ms
+[S_API] SteamAPI_Init(): Loaded '/home/n1ce/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 304930
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198152329824 [API loaded no]
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2410.
+Total: 4.709356 ms (FindLiveObjects: 0.087846 ms CreateObjectMapping: 0.074959 ms MarkObjects: 4.506407 ms  DeleteObjects: 0.039567 ms)
+
+Desktop is 1920 x 1080 @ 165 Hz
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 165 Hz
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 8795 unused Assets to reduce memory usage. Loaded Objects now: 109901.
+Total: 121.954998 ms (FindLiveObjects: 5.177672 ms CreateObjectMapping: 11.757864 ms MarkObjects: 82.667595 ms  DeleteObjects: 22.351348 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.756642 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 111840.
+Total: 163.935542 ms (FindLiveObjects: 4.174323 ms CreateObjectMapping: 9.931388 ms MarkObjects: 149.683940 ms  DeleteObjects: 0.145283 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 111855.
+Total: 162.645771 ms (FindLiveObjects: 3.814076 ms CreateObjectMapping: 9.726523 ms MarkObjects: 148.972498 ms  DeleteObjects: 0.132130 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 111855.
+Total: 155.458332 ms (FindLiveObjects: 3.757453 ms CreateObjectMapping: 8.359104 ms MarkObjects: 143.193905 ms  DeleteObjects: 0.147284 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 262.908594 ms
+
+Unloading 322 unused Assets to reduce memory usage. Loaded Objects now: 129987.
+Total: 376.503449 ms (FindLiveObjects: 5.398988 ms CreateObjectMapping: 9.220812 ms MarkObjects: 349.096767 ms  DeleteObjects: 12.786286 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 125528.
+Total: 398.972968 ms (FindLiveObjects: 5.567086 ms CreateObjectMapping: 10.644586 ms MarkObjects: 382.583499 ms  DeleteObjects: 0.177257 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 125576.
+Total: 392.700187 ms (FindLiveObjects: 8.017919 ms CreateObjectMapping: 10.600190 ms MarkObjects: 373.894598 ms  DeleteObjects: 0.186809 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 125683.
+Total: 392.766014 ms (FindLiveObjects: 5.926488 ms CreateObjectMapping: 10.321857 ms MarkObjects: 376.359812 ms  DeleteObjects: 0.157169 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 125832.
+Total: 349.634248 ms (FindLiveObjects: 6.452805 ms CreateObjectMapping: 10.382589 ms MarkObjects: 332.613041 ms  DeleteObjects: 0.185037 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 139967.
+Total: 404.528554 ms (FindLiveObjects: 6.313559 ms CreateObjectMapping: 11.967940 ms MarkObjects: 386.055708 ms  DeleteObjects: 0.190382 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 140051.
+Total: 413.105814 ms (FindLiveObjects: 6.522189 ms CreateObjectMapping: 11.418418 ms MarkObjects: 394.983354 ms  DeleteObjects: 0.181293 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 140078.
+Total: 387.669986 ms (FindLiveObjects: 5.687638 ms CreateObjectMapping: 10.923163 ms MarkObjects: 369.694285 ms  DeleteObjects: 1.364318 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 5)
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 141541.
+Total: 368.993246 ms (FindLiveObjects: 5.849158 ms CreateObjectMapping: 11.555145 ms MarkObjects: 348.807665 ms  DeleteObjects: 2.780746 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 6)
+
+Unloading 260 unused Assets to reduce memory usage. Loaded Objects now: 143719.
+Total: 450.779655 ms (FindLiveObjects: 6.172764 ms CreateObjectMapping: 12.887240 ms MarkObjects: 428.270142 ms  DeleteObjects: 3.448906 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 6)
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 144390.
+Total: 403.905809 ms (FindLiveObjects: 6.038067 ms CreateObjectMapping: 11.555309 ms MarkObjects: 375.310097 ms  DeleteObjects: 11.001696 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 144876.
+Total: 391.771172 ms (FindLiveObjects: 6.075795 ms CreateObjectMapping: 12.016055 ms MarkObjects: 372.115163 ms  DeleteObjects: 1.563606 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 144948.
+Total: 408.973301 ms (FindLiveObjects: 6.131479 ms CreateObjectMapping: 12.329077 ms MarkObjects: 390.324877 ms  DeleteObjects: 0.187285 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 8)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 144993.
+Total: 431.953558 ms (FindLiveObjects: 7.639666 ms CreateObjectMapping: 13.676598 ms MarkObjects: 410.439685 ms  DeleteObjects: 0.196993 ms)
+
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Unloading 2 Unused Serialized files (Serialized files now loaded: 10)
+
+Unloading 1985 unused Assets to reduce memory usage. Loaded Objects now: 166533.
+Total: 359.848095 ms (FindLiveObjects: 7.486376 ms CreateObjectMapping: 13.632210 ms MarkObjects: 326.001657 ms  DeleteObjects: 12.727221 ms)
+
+Desired shader compiler platform 15 is not available in shader blob
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 166706.
+Total: 366.564118 ms (FindLiveObjects: 7.105222 ms CreateObjectMapping: 13.559506 ms MarkObjects: 344.570042 ms  DeleteObjects: 1.328714 ms)
+
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 244 unused Assets to reduce memory usage. Loaded Objects now: 166790.
+Total: 390.768347 ms (FindLiveObjects: 7.802052 ms CreateObjectMapping: 14.387843 ms MarkObjects: 363.434939 ms  DeleteObjects: 5.142893 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 166790.
+Total: 386.106640 ms (FindLiveObjects: 8.279838 ms CreateObjectMapping: 14.016038 ms MarkObjects: 362.269997 ms  DeleteObjects: 1.540177 ms)
+
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 167990.
+Total: 460.131980 ms (FindLiveObjects: 7.722515 ms CreateObjectMapping: 15.392485 ms MarkObjects: 427.297518 ms  DeleteObjects: 9.718823 ms)
+
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Legacy Shaders/Transparent/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+Desired shader compiler platform 15 is not available in shader blob
+ERROR: Shader Particles/Alpha Blended shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Desired shader compiler platform 15 is not available in shader blob
+Unloading 3 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 224 unused Assets to reduce memory usage. Loaded Objects now: 169217.
+Total: 423.982643 ms (FindLiveObjects: 7.736115 ms CreateObjectMapping: 14.428956 ms MarkObjects: 384.312323 ms  DeleteObjects: 17.504667 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 11)
+UnloadTime: 1.347168 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 169252.
+Total: 399.173460 ms (FindLiveObjects: 7.266159 ms CreateObjectMapping: 14.322649 ms MarkObjects: 377.148565 ms  DeleteObjects: 0.435321 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 169252.
+Total: 359.993759 ms (FindLiveObjects: 7.128705 ms CreateObjectMapping: 13.621582 ms MarkObjects: 338.834726 ms  DeleteObjects: 0.408005 ms)
+
+/proc/self/maps:
+00200000-00201000 r--p 00000000 08:02 58474240                           /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64
+00201000-00202000 r-xp 00001000 08:02 58474240                           /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64
+00202000-00203000 r--p 00002000 08:02 58474240                           /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64
+00203000-00204000 rw-p 00003000 08:02 58474240                           /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64
+00c03000-05057000 rw-p 00000000 00:00 0                                  [heap]
+412cb000-416f3000 rwxp 00000000 00:00 0 
+41c5a000-41c6a000 rwxp 00000000 00:00 0 
+7f1dc8000000-7f1dc8022000 rw-p 00000000 00:00 0 
+7f1dc8022000-7f1dcc000000 ---p 00000000 00:00 0 
+7f1dd0000000-7f1dd0021000 rw-p 00000000 00:00 0 
+7f1dd0021000-7f1dd4000000 ---p 00000000 00:00 0 
+7f1dd4000000-7f1dd4021000 rw-p 00000000 00:00 0 
+7f1dd4021000-7f1dd8000000 ---p 00000000 00:00 0 
+7f1dd8000000-7f1dd8021000 rw-p 00000000 00:00 0 
+7f1dd8021000-7f1ddc000000 ---p 00000000 00:00 0 
+7f1ddc000000-7f1ddc021000 rw-p 00000000 00:00 0 
+7f1ddc021000-7f1de0000000 ---p 00000000 00:00 0 
+7f1de0000000-7f1ded000000 rw-p 00000000 00:00 0 
+7f1ded000000-7f1df0000000 ---p 00000000 00:00 0 
+7f1df0000000-7f1df2800000 rw-p 00000000 00:00 0 
+7f1df2800000-7f1e00000000 ---p 00000000 00:00 0 
+7f1e00000000-7f1e0b97f000 rw-p 00000000 00:00 0 
+7f1e0b97f000-7f1e0c3cc000 ---p 00000000 00:00 0 
+7f1e0c3cc000-7f1e0dbcd000 rw-p 00000000 00:00 0 
+7f1e0dbcd000-7f1e10000000 ---p 00000000 00:00 0 
+7f1e10000000-7f1e20021000 rw-p 00000000 00:00 0 
+7f1e20021000-7f1e24000000 ---p 00000000 00:00 0 
+7f1e24000000-7f1e24021000 rw-p 00000000 00:00 0 
+7f1e24021000-7f1e28000000 ---p 00000000 00:00 0 
+7f1e28000000-7f1e28021000 rw-p 00000000 00:00 0 
+7f1e28021000-7f1e2c000000 ---p 00000000 00:00 0 
+7f1e2c000000-7f1e2c021000 rw-p 00000000 00:00 0 
+7f1e2c021000-7f1e30000000 ---p 00000000 00:00 0 
+7f1e30000000-7f1e30021000 rw-p 00000000 00:00 0 
+7f1e30021000-7f1e34000000 ---p 00000000 00:00 0 
+7f1e34000000-7f1e34043000 rw-p 00000000 00:00 0 
+7f1e34043000-7f1e38000000 ---p 00000000 00:00 0 
+7f1e38000000-7f1e38021000 rw-p 00000000 00:00 0 
+7f1e38021000-7f1e3c000000 ---p 00000000 00:00 0 
+7f1e3c000000-7f1e3c021000 rw-p 00000000 00:00 0 
+7f1e3c021000-7f1e40000000 ---p 00000000 00:00 0 
+7f1e40000000-7f1e40021000 rw-p 00000000 00:00 0 
+7f1e40021000-7f1e44000000 ---p 00000000 00:00 0 
+7f1e44000000-7f1e44029000 rw-p 00000000 00:00 0 
+7f1e44029000-7f1e48000000 ---p 00000000 00:00 0 
+7f1e48000000-7f1e4809b000 rw-p 00000000 00:00 0 
+7f1e4809b000-7f1e4c000000 ---p 00000000 00:00 0 
+7f1e4c000000-7f1e4c021000 rw-p 00000000 00:00 0 
+7f1e4c021000-7f1e50000000 ---p 00000000 00:00 0 
+7f1e50000000-7f1e50001000 rw-p 00000000 00:00 0 
+7f1e50001000-7f1e53683000 ---p 00000000 00:00 0 
+7f1e53683000-7f1e60000000 ---p 00000000 00:00 0 
+7f1e60000000-7f1e60021000 rw-p 00000000 00:00 0 
+7f1e60021000-7f1e64000000 ---p 00000000 00:00 0 
+7f1e64000000-7f1e6431c000 rw-p 00000000 00:00 0 
+7f1e6431c000-7f1e68000000 ---p 00000000 00:00 0 
+7f1e68000000-7f1e68081000 rw-p 00000000 00:00 0 
+7f1e68081000-7f1e6c000000 ---p 00000000 00:00 0 
+7f1e6c000000-7f1e6c021000 rw-p 00000000 00:00 0 
+7f1e6c021000-7f1e70000000 ---p 00000000 00:00 0 
+7f1e70000000-7f1e70038000 rw-p 00000000 00:00 0 
+7f1e70038000-7f1e74000000 ---p 00000000 00:00 0 
+7f1e74000000-7f1e74087000 rw-p 00000000 00:00 0 
+7f1e74087000-7f1e78000000 ---p 00000000 00:00 0 
+7f1e78000000-7f1e7829b000 rw-p 00000000 00:00 0 
+7f1e7829b000-7f1e7c000000 ---p 00000000 00:00 0 
+7f1e7c000000-7f1e7c267000 rw-p 00000000 00:00 0 
+7f1e7c267000-7f1e80000000 ---p 00000000 00:00 0 
+7f1e80000000-7f1e802b3000 rw-p 00000000 00:00 0 
+7f1e802b3000-7f1e84000000 ---p 00000000 00:00 0 
+7f1e84000000-7f1e843b7000 rw-p 00000000 00:00 0 
+7f1e843b7000-7f1e88000000 ---p 00000000 00:00 0 
+7f1e88000000-7f1e88021000 rw-p 00000000 00:00 0 
+7f1e88021000-7f1e8c000000 ---p 00000000 00:00 0 
+7f1e8c000000-7f1e8c021000 rw-p 00000000 00:00 0 
+7f1e8c021000-7f1e90000000 ---p 00000000 00:00 0 
+7f1e90000000-7f1e97c00000 rw-p 00000000 00:00 0 
+7f1e97c00000-7f1ea0000000 ---p 00000000 00:00 0 
+7f1ea0e5a000-7f1ea105a000 rw-s 1ce4f5000 00:05 189                       /dev/dri/renderD128
+7f1ea2bfe000-7f1ea2dfe000 rw-s 1c5a08000 00:05 189                       /dev/dri/renderD128
+7f1ea2dfe000-7f1ea2ffe000 rw-s 1bdeb7000 00:05 189                       /dev/dri/renderD128
+7f1ea2ffe000-7f1ea2fff000 ---p 00000000 00:00 0 
+7f1ea2fff000-7f1ea3000000 rw-p 00000000 00:00 0 
+7f1ea3000000-7f1ea3008000 ---p 00000000 00:00 0 
+7f1ea3008000-7f1ea37ff000 rw-p 00000000 00:00 0 
+7f1ea39fe000-7f1ea39ff000 ---p 00000000 00:00 0 
+7f1ea39ff000-7f1ea3a00000 rw-p 00000000 00:00 0 
+7f1ea3a00000-7f1ea3a08000 ---p 00000000 00:00 0 
+7f1ea3a08000-7f1ea3bff000 rw-p 00000000 00:00 0 
+7f1ea3bff000-7f1ea3c00000 ---p 00000000 00:00 0 
+7f1ea3c00000-7f1ea3c01000 rw-p 00000000 00:00 0 
+7f1ea3c01000-7f1ea3c09000 ---p 00000000 00:00 0 
+7f1ea3c09000-7f1ea3e00000 rw-p 00000000 00:00 0 
+7f1ea3e00000-7f1ea4000000 rw-s 13be7e000 00:05 189                       /dev/dri/renderD128
+7f1ea4000000-7f1ea402f000 rw-p 00000000 00:00 0 
+7f1ea402f000-7f1ea8000000 ---p 00000000 00:00 0 
+7f1ea814a000-7f1ea814b000 ---p 00000000 00:00 0 
+7f1ea814b000-7f1ea814c000 rw-p 00000000 00:00 0 
+7f1ea814c000-7f1ea8154000 ---p 00000000 00:00 0 
+7f1ea8154000-7f1ea894b000 rw-p 00000000 00:00 0 
+7f1ea894b000-7f1ea894c000 ---p 00000000 00:00 0 
+7f1ea894c000-7f1ea894d000 rw-p 00000000 00:00 0 
+7f1ea894d000-7f1ea8955000 ---p 00000000 00:00 0 
+7f1ea8955000-7f1ea914c000 rw-p 00000000 00:00 0 
+7f1ea914c000-7f1ea914d000 ---p 00000000 00:00 0 
+7f1ea914d000-7f1ea914e000 rw-p 00000000 00:00 0 
+7f1ea914e000-7f1ea9156000 ---p 00000000 00:00 0 
+7f1ea9156000-7f1ea994d000 rw-p 00000000 00:00 0 
+7f1ea994d000-7f1ea9b4d000 rw-s 1b8c7b000 00:05 189                       /dev/dri/renderD128
+7f1ea9d48000-7f1ea9d49000 ---p 00000000 00:00 0 
+7f1ea9d49000-7f1ea9d4a000 rw-p 00000000 00:00 0 
+7f1ea9d4a000-7f1ea9d52000 ---p 00000000 00:00 0 
+7f1ea9d52000-7f1ea9f49000 rw-p 00000000 00:00 0 
+7f1ea9f49000-7f1ea9f4a000 ---p 00000000 00:00 0 
+7f1ea9f4a000-7f1ea9f4b000 rw-p 00000000 00:00 0 
+7f1ea9f4b000-7f1ea9f53000 ---p 00000000 00:00 0 
+7f1ea9f53000-7f1eaa14a000 rw-p 00000000 00:00 0 
+7f1eaa14a000-7f1eaa14b000 ---p 00000000 00:00 0 
+7f1eaa14b000-7f1eaa14c000 rw-p 00000000 00:00 0 
+7f1eaa14c000-7f1eaa154000 ---p 00000000 00:00 0 
+7f1eaa154000-7f1eaa34b000 rw-p 00000000 00:00 0 
+7f1eaa34b000-7f1eaa34c000 ---p 00000000 00:00 0 
+7f1eaa34c000-7f1eaa34d000 rw-p 00000000 00:00 0 
+7f1eaa34d000-7f1eaa355000 ---p 00000000 00:00 0 
+7f1eaa355000-7f1eaa54c000 rw-p 00000000 00:00 0 
+7f1eaa54c000-7f1eaa54d000 ---p 00000000 00:00 0 
+7f1eaa54d000-7f1eaa54e000 rw-p 00000000 00:00 0 
+7f1eaa54e000-7f1eaa556000 ---p 00000000 00:00 0 
+7f1eaa556000-7f1eaa74d000 rw-p 00000000 00:00 0 
+7f1eaa74d000-7f1eaa94d000 rw-s 1bdcb7000 00:05 189                       /dev/dri/renderD128
+7f1eaa94d000-7f1eaab4d000 rw-s 1c8b59000 00:05 189                       /dev/dri/renderD128
+7f1eaab4d000-7f1eaad4d000 rw-s 1371d1000 00:05 189                       /dev/dri/renderD128
+7f1eaad4d000-7f1eaad4e000 ---p 00000000 00:00 0 
+7f1eaad4e000-7f1eaad4f000 rw-p 00000000 00:00 0 
+7f1eaad4f000-7f1eaad57000 ---p 00000000 00:00 0 
+7f1eaad57000-7f1eab54e000 rw-p 00000000 00:00 0 
+7f1eab54e000-7f1eab54f000 ---p 00000000 00:00 0 
+7f1eab54f000-7f1eab550000 rw-p 00000000 00:00 0 
+7f1eab550000-7f1eab558000 ---p 00000000 00:00 0 
+7f1eab558000-7f1eabd4f000 rw-p 00000000 00:00 0 
+7f1eabd4f000-7f1eabdcb000 ---p 00000000 00:00 0 
+7f1eabdcb000-7f1eac399000 rw-p 00000000 00:00 0 
+7f1eac399000-7f1eac54b000 ---p 00000000 00:00 0 
+7f1eac54b000-7f1eba576000 rw-p 00000000 00:00 0 
+7f1eba576000-7f1ece000000 ---p 00000000 00:00 0 
+7f1ece000000-7f1ece357000 rw-p 00000000 00:00 0 
+7f1ece357000-7f1ece3f9000 ---p 00000000 00:00 0 
+7f1ece3f9000-7f1ed0021000 rw-p 00000000 00:00 0 
+7f1ed0021000-7f1ed4000000 ---p 00000000 00:00 0 
+7f1ed4000000-7f1ed42a8000 rw-p 00000000 00:00 0 
+7f1ed42a8000-7f1ed8000000 ---p 00000000 00:00 0 
+7f1ed8000000-7f1ed8021000 rw-p 00000000 00:00 0 
+7f1ed8021000-7f1edc000000 ---p 00000000 00:00 0 
+7f1edc000000-7f1edc04d000 rw-p 00000000 00:00 0 
+7f1edc04d000-7f1ee0000000 ---p 00000000 00:00 0 
+7f1ee0000000-7f1ef0000000 rw-p 00000000 00:00 0 
+7f1ef0000000-7f1f00000000 rw-p 00000000 00:00 0 
+7f1f00000000-7f1f00300000 rw-p 00000000 00:00 0 
+7f1f00300000-7f1f10000000 ---p 00000000 00:00 0 
+7f1f10000000-7f1f10001000 rw-p 00000000 00:00 0 
+7f1f10001000-7f1f1121a000 ---p 00000000 00:00 0 
+7f1f1121a000-7f1f1221b000 rw-p 00000000 00:00 0 
+7f1f1221b000-7f1f20000000 ---p 00000000 00:00 0 
+7f1f20000000-7f1f20021000 rw-p 00000000 00:00 0 
+7f1f20021000-7f1f24000000 ---p 00000000 00:00 0 
+7f1f24000000-7f1f24021000 rw-p 00000000 00:00 0 
+7f1f24021000-7f1f28000000 ---p 00000000 00:00 0 
+7f1f28000000-7f1f28021000 rw-p 00000000 00:00 0 
+7f1f28021000-7f1f2c000000 ---p 00000000 00:00 0 
+7f1f2c000000-7f1f2c021000 rw-p 00000000 00:00 0 
+7f1f2c021000-7f1f30000000 ---p 00000000 00:00 0 
+7f1f30154000-7f1f30354000 rw-s 136fd1000 00:05 189                       /dev/dri/renderD128
+7f1f30354000-7f1f30554000 rw-s 136dd1000 00:05 189                       /dev/dri/renderD128
+7f1f30554000-7f1f31d10000 rw-s 00000000 00:18 55041                      /dev/shm/ValveIPCSHM_1000 (deleted)
+7f1f31ef9000-7f1f320f9000 rw-s 1c3887000 00:05 189                       /dev/dri/renderD128
+7f1f320f9000-7f1f322f9000 rw-s 1bbe9e000 00:05 189                       /dev/dri/renderD128
+7f1f322f9000-7f1f324f9000 rw-s 154674000 00:05 189                       /dev/dri/renderD128
+7f1f324f9000-7f1f324fa000 ---p 00000000 00:00 0 
+7f1f324fa000-7f1f32cfa000 rw-p 00000000 00:00 0 
+7f1f32cfa000-7f1f32cfb000 ---p 00000000 00:00 0 
+7f1f32cfb000-7f1f334fb000 rw-p 00000000 00:00 0 
+7f1f334fb000-7f1f334fc000 ---p 00000000 00:00 0 
+7f1f334fc000-7f1f33cfc000 rw-p 00000000 00:00 0 
+7f1f33cfc000-7f1f33cfd000 ---p 00000000 00:00 0 
+7f1f33cfd000-7f1f344fd000 rw-p 00000000 00:00 0 
+7f1f344fd000-7f1f344fe000 ---p 00000000 00:00 0 
+7f1f344fe000-7f1f34d7e000 rw-p 00000000 00:00 0 
+7f1f34d7e000-7f1f34f7e000 rw-s 19bb6b000 00:05 189                       /dev/dri/renderD128
+7f1f34f7e000-7f1f3517e000 rw-s 1131b1000 00:05 189                       /dev/dri/renderD128
+7f1f3517e000-7f1f3537e000 rw-s 12d56a000 00:05 189                       /dev/dri/renderD128
+7f1f3537e000-7f1f353fe000 rw-p 00000000 00:00 0 
+7f1f353fe000-7f1f353ff000 ---p 00000000 00:00 0 
+7f1f353ff000-7f1f35bff000 rw-p 00000000 00:00 0 
+7f1f35bff000-7f1f35dff000 rw-s 1910f7000 00:05 189                       /dev/dri/renderD128
+7f1f35e3c000-7f1f36078000 rw-s 00000000 00:18 55074                      /dev/shm/ValveIPCSHM_1000 (deleted)
+7f1f360fe000-7f1f362fe000 rw-s 1b77fb000 00:05 189                       /dev/dri/renderD128
+7f1f362fe000-7f1f364fe000 rw-s 1b75fb000 00:05 189                       /dev/dri/renderD128
+7f1f364fe000-7f1f364ff000 ---p 00000000 00:00 0 
+7f1f364ff000-7f1f36dff000 rw-p 00000000 00:00 0 
+7f1f36dff000-7f1f36fff000 rw-s 161ec7000 00:05 189                       /dev/dri/renderD128
+7f1f36fff000-7f1f371ff000 rw-s 19b56b000 00:05 189                       /dev/dri/renderD128
+7f1f372bf000-7f1f373ff000 rw-p 00000000 00:00 0 
+7f1f373ff000-7f1f375ff000 rw-s 1b5247000 00:05 189                       /dev/dri/renderD128
+7f1f375ff000-7f1f377ff000 rw-s 1376de000 00:05 189                       /dev/dri/renderD128
+7f1f377ff000-7f1f37800000 ---p 00000000 00:00 0 
+7f1f37800000-7f1f38386000 rw-p 00000000 00:00 0 
+7f1f38386000-7f1f3c000000 ---p 00000000 00:00 0 
+7f1f3c000000-7f1f3c3ce000 rw-p 00000000 00:00 0 
+7f1f3c3ce000-7f1f40000000 ---p 00000000 00:00 0 
+7f1f40000000-7f1f4030e000 rw-p 00000000 00:00 0 
+7f1f4030e000-7f1f44000000 ---p 00000000 00:00 0 
+7f1f44004000-7f1f44044000 rw-p 00000000 00:00 0 
+7f1f44044000-7f1f44244000 rw-s 1930a3000 00:05 189                       /dev/dri/renderD128
+7f1f44397000-7f1f44432000 r-xp 00000000 08:02 57818025                   /home/n1ce/.local/share/Steam/linux64/crashhandler.so
+7f1f44432000-7f1f44433000 ---p 0009b000 08:02 57818025                   /home/n1ce/.local/share/Steam/linux64/crashhandler.so
+7f1f44433000-7f1f44438000 r--p 0009b000 08:02 57818025                   /home/n1ce/.local/share/Steam/linux64/crashhandler.so
+7f1f44438000-7f1f44439000 rw-p 000a0000 08:02 57818025                   /home/n1ce/.local/share/Steam/linux64/crashhandler.so
+7f1f44439000-7f1f44444000 rw-p 00000000 00:00 0 
+7f1f44444000-7f1f44644000 rw-s 196a1b000 00:05 189                       /dev/dri/renderD128
+7f1f44644000-7f1f44645000 ---p 00000000 00:00 0 
+7f1f44645000-7f1f44e45000 rw-p 00000000 00:00 0 
+7f1f44e45000-7f1f44e46000 ---p 00000000 00:00 0 
+7f1f44e46000-7f1f46ae7000 rw-p 00000000 00:00 0 
+7f1f46ae7000-7f1f4924d000 ---p 00000000 00:00 0 
+7f1f4924d000-7f1f4933b000 rw-p 00000000 00:00 0 
+7f1f4933b000-7f1f4e6ef000 ---p 00000000 00:00 0 
+7f1f4e6ef000-7f1f501a7000 rw-p 00000000 00:00 0 
+7f1f501a7000-7f1f68000000 ---p 00000000 00:00 0 
+7f1f68000000-7f1f68021000 rw-p 00000000 00:00 0 
+7f1f68021000-7f1f6c000000 ---p 00000000 00:00 0 
+7f1f6c000000-7f1f6c0a0000 rw-p 00000000 00:00 0 
+7f1f6c0a0000-7f1f70000000 ---p 00000000 00:00 0 
+7f1f70000000-7f1f70001000 rw-p 00000000 00:00 0 
+7f1f70001000-7f1f73683000 ---p 00000000 00:00 0 
+7f1f73683000-7f1f80000000 ---p 00000000 00:00 0 
+7f1f80000000-7f1f81557000 rw-p 00000000 00:00 0 
+7f1f81557000-7f1f834fc000 ---p 00000000 00:00 0 
+7f1f834fc000-7f1f90000000 ---p 00000000 00:00 0 
+7f1f90000000-7f1f935a7000 rw-p 00000000 00:00 0 
+7f1f935a7000-7f1fa0000000 ---p 00000000 00:00 0 
+7f1fa0000000-7f1fa07cc000 rw-p 00000000 00:00 0 
+7f1fa07cc000-7f1fa4000000 ---p 00000000 00:00 0 
+7f1fa4000000-7f1fa433e000 rw-p 00000000 00:00 0 
+7f1fa433e000-7f1fa8000000 ---p 00000000 00:00 0 
+7f1fa8000000-7f1fa8028000 rw-p 00000000 00:00 0 
+7f1fa8028000-7f1fac000000 ---p 00000000 00:00 0 
+7f1fac035000-7f1fac235000 rw-s 157c04000 00:05 189                       /dev/dri/renderD128
+7f1fac235000-7f1fac435000 rw-s 125100000 00:05 189                       /dev/dri/renderD128
+7f1fac437000-7f1fac637000 rw-s 1c50ac000 00:05 189                       /dev/dri/renderD128
+7f1fac637000-7f1fac837000 rw-s 12e286000 00:05 189                       /dev/dri/renderD128
+7f1fac837000-7f1fac838000 ---p 00000000 00:00 0 
+7f1fac838000-7f1faca38000 rw-p 00000000 00:00 0 
+7f1faca59000-7f1facc59000 rw-s 191af7000 00:05 189                       /dev/dri/renderD128
+7f1facc59000-7f1facc5a000 ---p 00000000 00:00 0 
+7f1facc5a000-7f1facc5b000 rw-p 00000000 00:00 0 
+7f1facc5b000-7f1facc63000 ---p 00000000 00:00 0 
+7f1facc63000-7f1facfda000 rw-p 00000000 00:00 0 
+7f1facfda000-7f1fad1da000 rw-s 129de2000 00:05 189                       /dev/dri/renderD128
+7f1fad1da000-7f1fad3da000 rw-s 11cb73000 00:05 189                       /dev/dri/renderD128
+7f1fad3da000-7f1fad5da000 rw-s 11ad7e000 00:05 189                       /dev/dri/renderD128
+7f1fad5da000-7f1fad5db000 ---p 00000000 00:00 0 
+7f1fad5db000-7f1fadddb000 rw-p 00000000 00:00 0 
+7f1fadddb000-7f1fadddc000 ---p 00000000 00:00 0 
+7f1fadddc000-7f1fae5dc000 rw-p 00000000 00:00 0 
+7f1fae5dc000-7f1fae5dd000 ---p 00000000 00:00 0 
+7f1fae5dd000-7f1faf800000 rw-p 00000000 00:00 0 
+7f1faf800000-7f1fafa00000 rw-s 138a7d000 00:05 189                       /dev/dri/renderD128
+7f1fafa00000-7f1fafc00000 rw-s 154a74000 00:05 189                       /dev/dri/renderD128
+7f1fafc00000-7f1fafe00000 rw-s 10c6cf000 00:05 189                       /dev/dri/renderD128
+7f1fafe00000-7f1fb0000000 rw-s 116182000 00:05 189                       /dev/dri/renderD128
+7f1fb0000000-7f1fb0021000 rw-p 00000000 00:00 0 
+7f1fb0021000-7f1fb4000000 ---p 00000000 00:00 0 
+7f1fb4000000-7f1fb432c000 rw-p 00000000 00:00 0 
+7f1fb432c000-7f1fb8000000 ---p 00000000 00:00 0 
+7f1fb8000000-7f1fb80bb000 rw-p 00000000 00:00 0 
+7f1fb80bb000-7f1fbc000000 ---p 00000000 00:00 0 
+7f1fbc000000-7f1fbc021000 rw-p 00000000 00:00 0 
+7f1fbc021000-7f1fc0000000 ---p 00000000 00:00 0 
+7f1fc0000000-7f1fd0000000 rw-p 00000000 00:00 0 
+7f1fd0000000-7f1fd036d000 rw-p 00000000 00:00 0 
+7f1fd036d000-7f1fd4000000 ---p 00000000 00:00 0 
+7f1fd4000000-7f1fd4037000 rw-p 00000000 00:00 0 
+7f1fd4037000-7f1fd8000000 ---p 00000000 00:00 0 
+7f1fd8000000-7f1fd8b2b000 rw-p 00000000 00:00 0 
+7f1fd8b2b000-7f1fdc000000 ---p 00000000 00:00 0 
+7f1fdc000000-7f1fdc543000 rw-p 00000000 00:00 0 
+7f1fdc543000-7f1fe0000000 ---p 00000000 00:00 0 
+7f1fe0000000-7f1fe0a13000 rw-p 00000000 00:00 0 
+7f1fe0a13000-7f1fe2a15000 ---p 00000000 00:00 0 
+7f1fe2a15000-7f1fe3a4f000 rw-p 00000000 00:00 0 
+7f1fe3a4f000-7f1fe835d000 ---p 00000000 00:00 0 
+7f1fe835d000-7f1fef3e5000 rw-p 00000000 00:00 0 
+7f1fef3e5000-7f1ff0000000 ---p 00000000 00:00 0 
+7f1ff0027000-7f1ff01fd000 rw-p 00000000 00:00 0 
+7f1ff01fd000-7f1ff03fd000 rw-s 13c7ea000 00:05 189                       /dev/dri/renderD128
+7f1ff0487000-7f1ff0687000 rw-s 13802a000 00:05 189                       /dev/dri/renderD128
+7f1ff0687000-7f1ff0a87000 rw-s 1bd8b7000 00:05 189                       /dev/dri/renderD128
+7f1ff0b43000-7f1ff0b7e000 rw-s 00000000 00:18 57552                      /dev/shm/ValveIPCSHM_1000 (deleted)
+7f1ff0b7e000-7f1ff0bfe000 rw-p 00000000 00:00 0 
+7f1ff0bfe000-7f1ff0bff000 ---p 00000000 00:00 0 
+7f1ff0bff000-7f1ff13ff000 rw-p 00000000 00:00 0 
+7f1ff13ff000-7f1ff1400000 ---p 00000000 00:00 0 
+7f1ff1400000-7f1ff1c00000 rw-p 00000000 00:00 0 
+7f1ff1c00000-7f1ff3d04000 r-xp 00000000 08:02 57818026                   /home/n1ce/.local/share/Steam/linux64/steamclient.so
+7f1ff3d04000-7f1ff3d05000 ---p 02104000 08:02 57818026                   /home/n1ce/.local/share/Steam/linux64/steamclient.so
+7f1ff3d05000-7f1ff3e34000 r--p 02104000 08:02 57818026                   /home/n1ce/.local/share/Steam/linux64/steamclient.so
+7f1ff3e34000-7f1ff3e66000 rw-p 02233000 08:02 57818026                   /home/n1ce/.local/share/Steam/linux64/steamclient.so
+7f1ff3e66000-7f1ff3f0f000 rw-p 00000000 00:00 0 
+7f1ff3f13000-7f1ff3f53000 rw-p 00000000 00:00 0 
+7f1ff3f53000-7f1ff3f58000 r--p 00000000 08:02 71319210                   /usr/lib/libnss_myhostname.so.2
+7f1ff3f58000-7f1ff3f6c000 r-xp 00005000 08:02 71319210                   /usr/lib/libnss_myhostname.so.2
+7f1ff3f6c000-7f1ff3f78000 r--p 00019000 08:02 71319210                   /usr/lib/libnss_myhostname.so.2
+7f1ff3f78000-7f1ff3f7d000 r--p 00024000 08:02 71319210                   /usr/lib/libnss_myhostname.so.2
+7f1ff3f7d000-7f1ff3f7e000 rw-p 00029000 08:02 71319210                   /usr/lib/libnss_myhostname.so.2
+7f1ff3f7e000-7f1ff3f82000 r--p 00000000 08:02 71319213                   /usr/lib/libnss_resolve.so.2
+7f1ff3f82000-7f1ff3f9c000 r-xp 00004000 08:02 71319213                   /usr/lib/libnss_resolve.so.2
+7f1ff3f9c000-7f1ff3fa4000 r--p 0001e000 08:02 71319213                   /usr/lib/libnss_resolve.so.2
+7f1ff3fa4000-7f1ff3fa5000 r--p 00026000 08:02 71319213                   /usr/lib/libnss_resolve.so.2
+7f1ff3fa5000-7f1ff3fa6000 rw-p 00027000 08:02 71319213                   /usr/lib/libnss_resolve.so.2
+7f1ff3fa6000-7f1ff3fad000 r--p 00000000 08:02 71319211                   /usr/lib/libnss_mymachines.so.2
+7f1ff3fad000-7f1ff3fe7000 r-xp 00007000 08:02 71319211                   /usr/lib/libnss_mymachines.so.2
+7f1ff3fe7000-7f1ff3ffb000 r--p 00041000 08:02 71319211                   /usr/lib/libnss_mymachines.so.2
+7f1ff3ffb000-7f1ff3ffe000 r--p 00055000 08:02 71319211                   /usr/lib/libnss_mymachines.so.2
+7f1ff3ffe000-7f1ff3fff000 rw-p 00058000 08:02 71319211                   /usr/lib/libnss_mymachines.so.2
+7f1ff3fff000-7f1ff4021000 rw-p 00000000 00:00 0 
+7f1ff4021000-7f1ff8000000 ---p 00000000 00:00 0 
+7f1ff8000000-7f1ff8063000 rw-p 00000000 00:00 0 
+7f1ff8063000-7f1ffc000000 ---p 00000000 00:00 0 
+7f1ffc000000-7f1ffc021000 rw-p 00000000 00:00 0 
+7f1ffc021000-7f2000000000 ---p 00000000 00:00 0 
+7f2000000000-7f2001000000 rw-p 00000000 00:00 0 
+7f2001000000-7f2010000000 ---p 00000000 00:00 0 
+7f2010000000-7f20128b2000 rw-p 00000000 00:00 0 
+7f20128b2000-7f2014000000 ---p 00000000 00:00 0 
+7f2014000000-7f2018000000 rw-s 00000000 00:01 22186                      /memfd:pulseaudio (deleted)
+7f2018000000-7f2018021000 rw-p 00000000 00:00 0 
+7f2018021000-7f201c000000 ---p 00000000 00:00 0 
+7f201c004000-7f201cc00000 rw-p 00000000 00:00 0 
+7f201cc00000-7f201ce02000 r--p 00000000 08:02 58474175                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.Data.dll
+7f201ce16000-7f201cf89000 rw-p 00000000 00:00 0 
+7f201cf89000-7f201cfd8000 r--p 00000000 08:02 58474233                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/Mono.Security.dll
+7f201cfd8000-7f201cffa000 r--p 00000000 08:02 58474257                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.Configuration.dll
+7f201cffa000-7f201cffb000 ---p 00000000 00:00 0 
+7f201cffb000-7f201d7fb000 rw-p 00000000 00:00 0 
+7f201d7fb000-7f201d7fc000 ---p 00000000 00:00 0 
+7f201d7fc000-7f201dffc000 rw-p 00000000 00:00 0 
+7f201dffc000-7f201dffd000 ---p 00000000 00:00 0 
+7f201dffd000-7f201e7fd000 rw-p 00000000 00:00 0 
+7f201e7fd000-7f201e7fe000 ---p 00000000 00:00 0 
+7f201e7fe000-7f201effe000 rw-p 00000000 00:00 0 
+7f201effe000-7f201efff000 ---p 00000000 00:00 0 
+7f201efff000-7f201f7ff000 rw-p 00000000 00:00 0 
+7f201f7ff000-7f201f800000 ---p 00000000 00:00 0 
+7f201f800000-7f2027000000 rw-p 00000000 00:00 0 
+7f2027000000-7f2030000000 ---p 00000000 00:00 0 
+7f203000b000-7f2030400000 rw-s 139e96000 00:05 189                       /dev/dri/renderD128
+7f2030400000-7f2030704000 r--p 00000000 08:02 58474237                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.Xml.dll
+7f2030718000-7f20307f1000 rw-p 00000000 00:00 0 
+7f20307f1000-7f20307f2000 ---p 00000000 00:00 0 
+7f20307f2000-7f2030ff2000 rw-p 00000000 00:00 0 
+7f2030ff2000-7f2030ff3000 ---p 00000000 00:00 0 
+7f2030ff3000-7f20317f3000 rw-p 00000000 00:00 0 
+7f20317f3000-7f20317f4000 ---p 00000000 00:00 0 
+7f20317f4000-7f20317f5000 rw-p 00000000 00:00 0 
+7f20317f5000-7f20317fd000 ---p 00000000 00:00 0 
+7f20317fd000-7f2031ff4000 rw-p 00000000 00:00 0 
+7f2031ff4000-7f2031ff5000 ---p 00000000 00:00 0 
+7f2031ff5000-7f20327f5000 rw-p 00000000 00:00 0 
+7f20327f5000-7f20327f6000 ---p 00000000 00:00 0 
+7f20327f6000-7f20327f7000 rw-p 00000000 00:00 0 
+7f20327f7000-7f20327ff000 ---p 00000000 00:00 0 
+7f20327ff000-7f2032ff6000 rw-p 00000000 00:00 0 
+7f2032ff6000-7f2032ff7000 ---p 00000000 00:00 0 
+7f2032ff7000-7f20337f7000 rw-p 00000000 00:00 0 
+7f20337f7000-7f20337f8000 ---p 00000000 00:00 0 
+7f20337f8000-7f2033ff8000 rw-p 00000000 00:00 0 
+7f2033ff8000-7f2033ff9000 ---p 00000000 00:00 0 
+7f2033ff9000-7f20347f9000 rw-p 00000000 00:00 0 
+7f20347f9000-7f20347fa000 ---p 00000000 00:00 0 
+7f20347fa000-7f2034ffa000 rw-p 00000000 00:00 0 
+7f2034ffa000-7f2034ffb000 ---p 00000000 00:00 0 
+7f2034ffb000-7f20357fb000 rw-p 00000000 00:00 0 
+7f20357fb000-7f20357fc000 ---p 00000000 00:00 0 
+7f20357fc000-7f20357fd000 rw-p 00000000 00:00 0 
+7f20357fd000-7f2035805000 ---p 00000000 00:00 0 
+7f2035805000-7f2035ffc000 rw-p 00000000 00:00 0 
+7f2035ffc000-7f2035ffd000 ---p 00000000 00:00 0 
+7f2035ffd000-7f2035ffe000 rw-p 00000000 00:00 0 
+7f2035ffe000-7f2036006000 ---p 00000000 00:00 0 
+7f2036006000-7f20367fd000 rw-p 00000000 00:00 0 
+7f20367fd000-7f20367fe000 ---p 00000000 00:00 0 
+7f20367fe000-7f20367ff000 rw-p 00000000 00:00 0 
+7f20367ff000-7f2036807000 ---p 00000000 00:00 0 
+7f2036807000-7f2036ffe000 rw-p 00000000 00:00 0 
+7f2036ffe000-7f2036fff000 ---p 00000000 00:00 0 
+7f2036fff000-7f20377ff000 rw-p 00000000 00:00 0 
+7f20377ff000-7f2037800000 ---p 00000000 00:00 0 
+7f2037800000-7f2037801000 rw-p 00000000 00:00 0 
+7f2037801000-7f2037809000 ---p 00000000 00:00 0 
+7f2037809000-7f2038021000 rw-p 00000000 00:00 0 
+7f2038021000-7f203c000000 ---p 00000000 00:00 0 
+7f203c00c000-7f203c400000 rw-p 00000000 00:00 0 
+7f203c400000-7f203c6a5000 r--p 00000000 08:02 58474235                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.dll
+7f203c6bc000-7f203c6bd000 ---p 00000000 00:00 0 
+7f203c6bd000-7f203c6be000 rw-p 00000000 00:00 0 
+7f203c6be000-7f203c6c6000 ---p 00000000 00:00 0 
+7f203c6c6000-7f203c7f9000 rw-p 00000000 00:00 0 
+7f203c7f9000-7f203c7fa000 ---p 00000000 00:00 0 
+7f203c7fa000-7f203cffa000 rw-p 00000000 00:00 0 
+7f203cffa000-7f203cffb000 ---p 00000000 00:00 0 
+7f203cffb000-7f203d7fb000 rw-p 00000000 00:00 0 
+7f203d7fb000-7f203d7fc000 ---p 00000000 00:00 0 
+7f203d7fc000-7f203d7fd000 rw-p 00000000 00:00 0 
+7f203d7fd000-7f203d805000 ---p 00000000 00:00 0 
+7f203d805000-7f203dffc000 rw-p 00000000 00:00 0 
+7f203dffc000-7f203dffd000 ---p 00000000 00:00 0 
+7f203dffd000-7f203e7fd000 rw-p 00000000 00:00 0 
+7f203e7fd000-7f203e7fe000 ---p 00000000 00:00 0 
+7f203e7fe000-7f203effe000 rw-p 00000000 00:00 0 
+7f203effe000-7f203efff000 ---p 00000000 00:00 0 
+7f203efff000-7f203f7ff000 rw-p 00000000 00:00 0 
+7f203f7ff000-7f203f800000 ---p 00000000 00:00 0 
+7f203f800000-7f20403d3000 rw-p 00000000 00:00 0 
+7f20403d3000-7f2044000000 ---p 00000000 00:00 0 
+7f2044000000-7f2044025000 rw-p 00000000 00:00 0 
+7f2044025000-7f2048000000 ---p 00000000 00:00 0 
+7f2048000000-7f20480b6000 rw-p 00000000 00:00 0 
+7f20480b6000-7f204c000000 ---p 00000000 00:00 0 
+7f204c000000-7f204c324000 rw-p 00000000 00:00 0 
+7f204c324000-7f2050000000 ---p 00000000 00:00 0 
+7f2050000000-7f2050072000 rw-p 00000000 00:00 0 
+7f2050072000-7f2054000000 ---p 00000000 00:00 0 
+7f2054013000-7f205408a000 rw-p 00000000 00:00 0 
+7f205408a000-7f205418f000 r--p 00000000 08:02 58474173                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.Core.dll
+7f205418f000-7f205436c000 rw-p 00000000 00:00 0 
+7f205436c000-7f205436d000 ---p 00000000 00:00 0 
+7f205436d000-7f20543ad000 rw-p 00000000 00:00 0 
+7f20543ad000-7f20543ae000 ---p 00000000 00:00 0 
+7f20543ae000-7f20544ae000 rw-p 00000000 00:00 0 
+7f20544ae000-7f20544b3000 r--p 00000000 08:02 71319134                   /usr/lib/libgpg-error.so.0.34.0
+7f20544b3000-7f20544c8000 r-xp 00005000 08:02 71319134                   /usr/lib/libgpg-error.so.0.34.0
+7f20544c8000-7f20544d2000 r--p 0001a000 08:02 71319134                   /usr/lib/libgpg-error.so.0.34.0
+7f20544d2000-7f20544d3000 r--p 00023000 08:02 71319134                   /usr/lib/libgpg-error.so.0.34.0
+7f20544d3000-7f20544d4000 rw-p 00024000 08:02 71319134                   /usr/lib/libgpg-error.so.0.34.0
+7f20544d4000-7f20544e3000 r--p 00000000 08:02 71319177                   /usr/lib/libgcrypt.so.20.4.2
+7f20544e3000-7f20545d3000 r-xp 0000f000 08:02 71319177                   /usr/lib/libgcrypt.so.20.4.2
+7f20545d3000-7f2054612000 r--p 000ff000 08:02 71319177                   /usr/lib/libgcrypt.so.20.4.2
+7f2054612000-7f2054617000 r--p 0013d000 08:02 71319177                   /usr/lib/libgcrypt.so.20.4.2
+7f2054617000-7f205461b000 rw-p 00142000 08:02 71319177                   /usr/lib/libgcrypt.so.20.4.2
+7f205461b000-7f205461c000 rw-p 00000000 00:00 0 
+7f205461c000-7f2054623000 r--p 00000000 08:02 71342439                   /usr/lib/libmp3lame.so.0.0.0
+7f2054623000-7f2054653000 r-xp 00007000 08:02 71342439                   /usr/lib/libmp3lame.so.0.0.0
+7f2054653000-7f2054664000 r--p 00037000 08:02 71342439                   /usr/lib/libmp3lame.so.0.0.0
+7f2054664000-7f2054666000 r--p 00047000 08:02 71342439                   /usr/lib/libmp3lame.so.0.0.0
+7f2054666000-7f2054667000 rw-p 00049000 08:02 71342439                   /usr/lib/libmp3lame.so.0.0.0
+7f2054667000-7f2054694000 rw-p 00000000 00:00 0 
+7f2054694000-7f205469a000 r--p 00000000 08:02 71342469                   /usr/lib/libmpg123.so.0.48.0
+7f205469a000-7f20546d4000 r-xp 00006000 08:02 71342469                   /usr/lib/libmpg123.so.0.48.0
+7f20546d4000-7f20546ef000 r--p 00040000 08:02 71342469                   /usr/lib/libmpg123.so.0.48.0
+7f20546ef000-7f20546f0000 r--p 0005b000 08:02 71342469                   /usr/lib/libmpg123.so.0.48.0
+7f20546f0000-7f20546f1000 rw-p 0005c000 08:02 71342469                   /usr/lib/libmpg123.so.0.48.0
+7f20546f1000-7f20546f4000 r--p 00000000 08:02 71342480                   /usr/lib/libopus.so.0.9.0
+7f20546f4000-7f205473c000 r-xp 00003000 08:02 71342480                   /usr/lib/libopus.so.0.9.0
+7f205473c000-7f205474d000 r--p 0004b000 08:02 71342480                   /usr/lib/libopus.so.0.9.0
+7f205474d000-7f205474e000 r--p 0005c000 08:02 71342480                   /usr/lib/libopus.so.0.9.0
+7f205474e000-7f205474f000 rw-p 0005d000 08:02 71342480                   /usr/lib/libopus.so.0.9.0
+7f205474f000-7f2054763000 r--p 00000000 08:02 71342447                   /usr/lib/libvorbisenc.so.2.0.12
+7f2054763000-7f2054766000 r-xp 00014000 08:02 71342447                   /usr/lib/libvorbisenc.so.2.0.12
+7f2054766000-7f20547dd000 r--p 00017000 08:02 71342447                   /usr/lib/libvorbisenc.so.2.0.12
+7f20547dd000-7f20547f9000 r--p 0008d000 08:02 71342447                   /usr/lib/libvorbisenc.so.2.0.12
+7f20547f9000-7f20547fa000 rw-p 000a9000 08:02 71342447                   /usr/lib/libvorbisenc.so.2.0.12
+7f20547fa000-7f20547fb000 ---p 00000000 00:00 0 
+7f20547fb000-7f2054ffb000 rw-p 00000000 00:00 0 
+7f2054ffb000-7f2054ffc000 ---p 00000000 00:00 0 
+7f2054ffc000-7f20557fc000 rw-p 00000000 00:00 0 
+7f20557fc000-7f20557fd000 ---p 00000000 00:00 0 
+7f20557fd000-7f2055ffd000 rw-p 00000000 00:00 0 
+7f2055ffd000-7f2055ffe000 ---p 00000000 00:00 0 
+7f2055ffe000-7f20567fe000 rw-p 00000000 00:00 0 
+7f20567fe000-7f20567ff000 ---p 00000000 00:00 0 
+7f20567ff000-7f2056fff000 rw-p 00000000 00:00 0 
+7f2056fff000-7f2057000000 ---p 00000000 00:00 0 
+7f2057000000-7f2057800000 rw-p 00000000 00:00 0 
+7f2057800000-7f2057be8000 r--p 00000000 08:02 58474170                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/mscorlib.dll
+7f2057bf0000-7f2057c00000 rw-p 00000000 00:00 0 
+7f2057c00000-7f205874d000 r--p 00000000 08:02 71344496                   /usr/lib/libLLVM-16.so
+7f205874d000-7f205cab0000 r-xp 00b4d000 08:02 71344496                   /usr/lib/libLLVM-16.so
+7f205cab0000-7f205f851000 r--p 04eb0000 08:02 71344496                   /usr/lib/libLLVM-16.so
+7f205f851000-7f205ff05000 r--p 07c50000 08:02 71344496                   /usr/lib/libLLVM-16.so
+7f205ff05000-7f205ff4e000 rw-p 08304000 08:02 71344496                   /usr/lib/libLLVM-16.so
+7f205ff4e000-7f205ffe1000 rw-p 00000000 00:00 0 
+7f205ffe4000-7f205fff0000 rw-p 00000000 00:00 0 
+7f205fff0000-7f2060000000 rwxp 00000000 00:00 0 
+7f2060000000-7f2066000000 rw-p 00000000 00:00 0 
+7f2066000000-7f2067000000 ---p 00000000 00:00 0 
+7f2067000000-7f2070000000 ---p 00000000 00:00 0 
+7f2070000000-7f2071000000 rw-p 00000000 00:00 0 
+7f2071000000-7f2080000000 ---p 00000000 00:00 0 
+7f2080000000-7f2090000000 rw-p 00000000 00:00 0 
+7f2090000000-7f20a0000000 rw-p 00000000 00:00 0 
+7f20a0000000-7f20a06e1000 rw-p 00000000 00:00 0 
+7f20a06e1000-7f20a0800000 ---p 00000000 00:00 0 
+7f20a0800000-7f20a0840000 rw-p 00000000 00:00 0 
+7f20a0840000-7f20a0880000 ---p 00000000 00:00 0 
+7f20a0880000-7f20a08c0000 rw-p 00000000 00:00 0 
+7f20a08c0000-7f20a0900000 ---p 00000000 00:00 0 
+7f20a0900000-7f20a0940000 rw-p 00000000 00:00 0 
+7f20a0940000-7f20a0980000 ---p 00000000 00:00 0 
+7f20a0980000-7f20a09c0000 rw-p 00000000 00:00 0 
+7f20a09c0000-7f20a0a00000 ---p 00000000 00:00 0 
+7f20a0a00000-7f20a0a40000 rw-p 00000000 00:00 0 
+7f20a0a40000-7f20a0a80000 ---p 00000000 00:00 0 
+7f20a0a80000-7f20a0ac0000 rw-p 00000000 00:00 0 
+7f20a0ac0000-7f20a0b00000 ---p 00000000 00:00 0 
+7f20a0b00000-7f20a0b40000 rw-p 00000000 00:00 0 
+7f20a0b40000-7f20a0b80000 ---p 00000000 00:00 0 
+7f20a0b80000-7f20a0bc0000 rw-p 00000000 00:00 0 
+7f20a0bc0000-7f20a0c00000 ---p 00000000 00:00 0 
+7f20a0c00000-7f20a0c40000 rw-p 00000000 00:00 0 
+7f20a0c40000-7f20a0c80000 ---p 00000000 00:00 0 
+7f20a0c80000-7f20a0cc0000 rw-p 00000000 00:00 0 
+7f20a0cc0000-7f20a0d00000 ---p 00000000 00:00 0 
+7f20a0d00000-7f20a0d40000 rw-p 00000000 00:00 0 
+7f20a0d40000-7f20a0d80000 ---p 00000000 00:00 0 
+7f20a0d80000-7f20a0d88000 rw-p 00000000 00:00 0 
+7f20a0d88000-7f20a0d90000 ---p 00000000 00:00 0 
+7f20a0d90000-7f20a0d98000 rw-p 00000000 00:00 0 
+7f20a0d98000-7f20a0da0000 ---p 00000000 00:00 0 
+7f20a0da0000-7f20a0da8000 rw-p 00000000 00:00 0 
+7f20a0da8000-7f20a0db0000 ---p 00000000 00:00 0 
+7f20a0db0000-7f20a0db8000 rw-p 00000000 00:00 0 
+7f20a0db8000-7f20a0dc0000 ---p 00000000 00:00 0 
+7f20a0dc0000-7f20a0dc8000 rw-p 00000000 00:00 0 
+7f20a0dc8000-7f20a0dd0000 ---p 00000000 00:00 0 
+7f20a0dd0000-7f20a0dd8000 rw-p 00000000 00:00 0 
+7f20a0dd8000-7f20a0de0000 ---p 00000000 00:00 0 
+7f20a0de0000-7f20a0de8000 rw-p 00000000 00:00 0 
+7f20a0de8000-7f20a0df0000 ---p 00000000 00:00 0 
+7f20a0df0000-7f20a0df8000 rw-p 00000000 00:00 0 
+7f20a0df8000-7f20a0e00000 ---p 00000000 00:00 0 
+7f20a0e00000-7f20a0e08000 rw-p 00000000 00:00 0 
+7f20a0e08000-7f20a0e10000 ---p 00000000 00:00 0 
+7f20a0e10000-7f20a0e18000 rw-p 00000000 00:00 0 
+7f20a0e18000-7f20a0e20000 ---p 00000000 00:00 0 
+7f20a0e20000-7f20a0e28000 rw-p 00000000 00:00 0 
+7f20a0e28000-7f20a0e30000 ---p 00000000 00:00 0 
+7f20a0e30000-7f20a0e38000 rw-p 00000000 00:00 0 
+7f20a0e38000-7f20a0e40000 ---p 00000000 00:00 0 
+7f20a0e40000-7f20a0e48000 rw-p 00000000 00:00 0 
+7f20a0e48000-7f20a0e50000 ---p 00000000 00:00 0 
+7f20a0e50000-7f20a0e58000 rw-p 00000000 00:00 0 
+7f20a0e58000-7f20a0e60000 ---p 00000000 00:00 0 
+7f20a0e60000-7f20a0e68000 rw-p 00000000 00:00 0 
+7f20a0e68000-7f20a0e70000 ---p 00000000 00:00 0 
+7f20a0e70000-7f20a0e78000 rw-p 00000000 00:00 0 
+7f20a0e78000-7f20a0e80000 ---p 00000000 00:00 0 
+7f20a0e80000-7f20a0ea0000 rw-p 00000000 00:00 0 
+7f20a0ea0000-7f20a0ee1000 rw-p 00000000 00:00 0 
+7f20a0ee1000-7f20a0f20000 ---p 00000000 00:00 0 
+7f20a0f20000-7f20a0f82000 rw-p 00000000 00:00 0 
+7f20a0f82000-7f20a0fa0000 ---p 00000000 00:00 0 
+7f20a0fa0000-7f20a0fb0000 ---p 00000000 00:00 0 
+7f20a0fb0000-7f20a0fc0000 ---p 00000000 00:00 0 
+7f20a0fc0000-7f20a0fd0000 ---p 00000000 00:00 0 
+7f20a0fd0000-7f20b0000000 ---p 00000000 00:00 0 
+7f20b0000000-7f20b0401000 rw-p 00000000 00:00 0 
+7f20b0401000-7f20c0000000 ---p 00000000 00:00 0 
+7f20c0000000-7f20c1302000 rw-p 00000000 00:00 0 
+7f20c1302000-7f20d0000000 ---p 00000000 00:00 0 
+7f20d0000000-7f20d0302000 rw-p 00000000 00:00 0 
+7f20d0302000-7f20e0000000 ---p 00000000 00:00 0 
+7f20e0000000-7f20e0102000 rw-p 00000000 00:00 0 
+7f20e0102000-7f20f0000000 ---p 00000000 00:00 0 
+7f20f0000000-7f20f0f02000 rw-p 00000000 00:00 0 
+7f20f0f02000-7f2100000000 ---p 00000000 00:00 0 
+7f2100000000-7f2100100000 rw-p 00000000 00:00 0 
+7f2100100000-7f2110000000 ---p 00000000 00:00 0 
+7f2110001000-7f211000d000 rw-p 00000000 00:00 0 
+7f211000d000-7f2110016000 r--p 00000000 08:02 71342428                   /usr/lib/libFLAC.so.12.1.0
+7f2110016000-7f2110048000 r-xp 00009000 08:02 71342428                   /usr/lib/libFLAC.so.12.1.0
+7f2110048000-7f2110051000 r--p 0003b000 08:02 71342428                   /usr/lib/libFLAC.so.12.1.0
+7f2110051000-7f2110052000 r--p 00044000 08:02 71342428                   /usr/lib/libFLAC.so.12.1.0
+7f2110052000-7f2110053000 rw-p 00045000 08:02 71342428                   /usr/lib/libFLAC.so.12.1.0
+7f2110053000-7f211006b000 r--p 00000000 08:02 71319218                   /usr/lib/libsystemd.so.0.37.0
+7f211006b000-7f2110101000 r-xp 00018000 08:02 71319218                   /usr/lib/libsystemd.so.0.37.0
+7f2110101000-7f2110138000 r--p 000ae000 08:02 71319218                   /usr/lib/libsystemd.so.0.37.0
+7f2110138000-7f2110144000 r--p 000e4000 08:02 71319218                   /usr/lib/libsystemd.so.0.37.0
+7f2110144000-7f2110145000 rw-p 000f0000 08:02 71319218                   /usr/lib/libsystemd.so.0.37.0
+7f2110145000-7f2110146000 rw-p 00000000 00:00 0 
+7f2110146000-7f211014e000 r--p 00000000 08:02 71342497                   /usr/lib/libsndfile.so.1.0.37
+7f211014e000-7f21101aa000 r-xp 00008000 08:02 71342497                   /usr/lib/libsndfile.so.1.0.37
+7f21101aa000-7f21101c7000 r--p 00064000 08:02 71342497                   /usr/lib/libsndfile.so.1.0.37
+7f21101c7000-7f21101ca000 r--p 00081000 08:02 71342497                   /usr/lib/libsndfile.so.1.0.37
+7f21101ca000-7f21101cb000 rw-p 00084000 08:02 71342497                   /usr/lib/libsndfile.so.1.0.37
+7f21101cb000-7f21101cd000 rw-p 00000000 00:00 0 
+7f21101cd000-7f21101db000 r--p 00000000 08:02 71326449                   /usr/lib/libdbus-1.so.3.32.4
+7f21101db000-7f2110209000 r-xp 0000e000 08:02 71326449                   /usr/lib/libdbus-1.so.3.32.4
+7f2110209000-7f211021b000 r--p 0003c000 08:02 71326449                   /usr/lib/libdbus-1.so.3.32.4
+7f211021b000-7f211021d000 r--p 0004e000 08:02 71326449                   /usr/lib/libdbus-1.so.3.32.4
+7f211021d000-7f211021e000 rw-p 00050000 08:02 71326449                   /usr/lib/libdbus-1.so.3.32.4
+7f211021e000-7f2110233000 r--p 00000000 08:02 71454301                   /usr/lib/pulseaudio/libpulsecommon-16.1.so
+7f2110233000-7f211027b000 r-xp 00015000 08:02 71454301                   /usr/lib/pulseaudio/libpulsecommon-16.1.so
+7f211027b000-7f21102a2000 r--p 0005d000 08:02 71454301                   /usr/lib/pulseaudio/libpulsecommon-16.1.so
+7f21102a2000-7f21102a4000 r--p 00084000 08:02 71454301                   /usr/lib/pulseaudio/libpulsecommon-16.1.so
+7f21102a4000-7f21102a5000 rw-p 00086000 08:02 71454301                   /usr/lib/pulseaudio/libpulsecommon-16.1.so
+7f21102a5000-7f21102b2000 r--p 00000000 08:02 71342524                   /usr/lib/libpulse.so.0.24.2
+7f21102b2000-7f21102e1000 r-xp 0000d000 08:02 71342524                   /usr/lib/libpulse.so.0.24.2
+7f21102e1000-7f21102f7000 r--p 0003c000 08:02 71342524                   /usr/lib/libpulse.so.0.24.2
+7f21102f7000-7f21102f9000 r--p 00051000 08:02 71342524                   /usr/lib/libpulse.so.0.24.2
+7f21102f9000-7f21102fa000 rw-p 00053000 08:02 71342524                   /usr/lib/libpulse.so.0.24.2
+7f21102fa000-7f211031e000 rw-p 00000000 00:00 0 
+7f211031e000-7f211031f000 ---p 00000000 00:00 0 
+7f211031f000-7f21104af000 rw-p 00000000 00:00 0 
+7f21104b1000-7f21104b9000 rw-p 00000000 00:00 0 
+7f21104b9000-7f21104ba000 ---p 00000000 00:00 0 
+7f21104ba000-7f21104fa000 rw-p 00000000 00:00 0 
+7f21104fa000-7f211054a000 r-xp 00000000 08:02 58474174                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Plugins/libsteam_api.so
+7f211054a000-7f211054c000 r--p 0004f000 08:02 58474174                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Plugins/libsteam_api.so
+7f211054c000-7f211054d000 rw-p 00051000 08:02 58474174                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Plugins/libsteam_api.so
+7f211054d000-7f2110561000 rw-p 00000000 00:00 0 
+7f2110561000-7f21105c0000 ---p 00000000 00:00 0 
+7f21105c0000-7f2110600000 rw-p 00000000 00:00 0 
+7f2110600000-7f2110957000 r-xp 00000000 08:02 58474176                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so
+7f2110957000-7f2110b57000 ---p 00357000 08:02 58474176                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so
+7f2110b57000-7f2110b5e000 r--p 00357000 08:02 58474176                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so
+7f2110b5e000-7f2110b65000 rw-p 0035e000 08:02 58474176                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so
+7f2110b65000-7f2110d80000 rw-p 00000000 00:00 0 
+7f2110d81000-7f2110d8c000 r--p 00000000 08:02 58474198                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/Managed/System.Transactions.dll
+7f2110d8c000-7f2110d90000 r--p 00000000 08:02 71342444                   /usr/lib/libvorbis.so.0.4.9
+7f2110d90000-7f2110da7000 r-xp 00004000 08:02 71342444                   /usr/lib/libvorbis.so.0.4.9
+7f2110da7000-7f2110db8000 r--p 0001b000 08:02 71342444                   /usr/lib/libvorbis.so.0.4.9
+7f2110db8000-7f2110db9000 r--p 0002b000 08:02 71342444                   /usr/lib/libvorbis.so.0.4.9
+7f2110db9000-7f2110dba000 rw-p 0002c000 08:02 71342444                   /usr/lib/libvorbis.so.0.4.9
+7f2110dba000-7f2110dfa000 rw-p 00000000 00:00 0 
+7f2110dfa000-7f2110ffa000 rw-s 110ed7000 00:05 189                       /dev/dri/renderD128
+7f2110ffa000-7f2110ffb000 ---p 00000000 00:00 0 
+7f2110ffb000-7f21117fb000 rw-p 00000000 00:00 0 
+7f21117fb000-7f21117fc000 ---p 00000000 00:00 0 
+7f21117fc000-7f21117fd000 rw-p 00000000 00:00 0 
+7f21117fd000-7f2111805000 ---p 00000000 00:00 0 
+7f2111805000-7f2111ffc000 rw-p 00000000 00:00 0 
+7f2111ffc000-7f21121fc000 rw-s 1c3287000 00:05 189                       /dev/dri/renderD128
+7f21121fc000-7f21123fc000 rw-s 10e9d2000 00:05 189                       /dev/dri/renderD128
+7f21123fc000-7f21123fd000 ---p 00000000 00:00 0 
+7f21123fd000-7f2112bfd000 rw-p 00000000 00:00 0 
+7f2112bfd000-7f2112bfe000 ---p 00000000 00:00 0 
+7f2112bfe000-7f21133fe000 rw-p 00000000 00:00 0 
+7f21133fe000-7f21133ff000 ---p 00000000 00:00 0 
+7f21133ff000-7f2113bff000 rw-p 00000000 00:00 0 
+7f2113bff000-7f2113c00000 ---p 00000000 00:00 0 
+7f2113c00000-7f2114400000 rw-p 00000000 00:00 0 
+7f2114400000-7f211628d000 r--p 00000000 08:02 71320552                   /usr/lib/libicudata.so.73.2
+7f211628d000-7f211628e000 r--p 01e8c000 08:02 71320552                   /usr/lib/libicudata.so.73.2
+7f211628e000-7f2116292000 rw-p 00000000 00:00 0 
+7f2116292000-7f2116295000 r--p 00000000 08:02 71318634                   /usr/lib/liblz4.so.1.9.4
+7f2116295000-7f21162b0000 r-xp 00003000 08:02 71318634                   /usr/lib/liblz4.so.1.9.4
+7f21162b0000-7f21162b2000 r--p 0001e000 08:02 71318634                   /usr/lib/liblz4.so.1.9.4
+7f21162b2000-7f21162b3000 r--p 00020000 08:02 71318634                   /usr/lib/liblz4.so.1.9.4
+7f21162b3000-7f21162b4000 rw-p 00021000 08:02 71318634                   /usr/lib/liblz4.so.1.9.4
+7f21162b4000-7f21162b6000 r--p 00000000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162b6000-7f21162b9000 r-xp 00002000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162b9000-7f21162bc000 r--p 00005000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162bc000-7f21162bd000 ---p 00008000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162bd000-7f21162be000 r--p 00008000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162be000-7f21162bf000 rw-p 00009000 08:02 71342418                   /usr/lib/libogg.so.0.8.5
+7f21162bf000-7f2116400000 rw-s 00000000 08:02 55050361                   /home/n1ce/.cache/mesa_shader_cache/index
+7f2116400000-7f2116465000 r--p 00000000 08:02 71320567                   /usr/lib/libicuuc.so.73.2
+7f2116465000-7f2116562000 r-xp 00065000 08:02 71320567                   /usr/lib/libicuuc.so.73.2
+7f2116562000-7f21165f2000 r--p 00162000 08:02 71320567                   /usr/lib/libicuuc.so.73.2
+7f21165f2000-7f2116605000 r--p 001f2000 08:02 71320567                   /usr/lib/libicuuc.so.73.2
+7f2116605000-7f2116606000 rw-p 00205000 08:02 71320567                   /usr/lib/libicuuc.so.73.2
+7f2116606000-7f2116608000 rw-p 00000000 00:00 0 
+7f211660b000-7f211660d000 r--p 00000000 08:02 71342414                   /usr/lib/libasyncns.so.0.3.1
+7f211660d000-7f2116610000 r-xp 00002000 08:02 71342414                   /usr/lib/libasyncns.so.0.3.1
+7f2116610000-7f2116611000 r--p 00005000 08:02 71342414                   /usr/lib/libasyncns.so.0.3.1
+7f2116611000-7f2116612000 r--p 00005000 08:02 71342414                   /usr/lib/libasyncns.so.0.3.1
+7f2116612000-7f2116613000 rw-p 00006000 08:02 71342414                   /usr/lib/libasyncns.so.0.3.1
+7f2116613000-7f2116615000 r--p 00000000 08:02 71342521                   /usr/lib/libpulse-simple.so.0.1.1
+7f2116615000-7f2116617000 r-xp 00002000 08:02 71342521                   /usr/lib/libpulse-simple.so.0.1.1
+7f2116617000-7f2116618000 r--p 00004000 08:02 71342521                   /usr/lib/libpulse-simple.so.0.1.1
+7f2116618000-7f2116619000 r--p 00004000 08:02 71342521                   /usr/lib/libpulse-simple.so.0.1.1
+7f2116619000-7f211661a000 rw-p 00005000 08:02 71342521                   /usr/lib/libpulse-simple.so.0.1.1
+7f211661a000-7f211669a000 rw-p 00000000 00:00 0 
+7f211669a000-7f21166cc000 r--p 00000000 08:02 71320650                   /usr/lib/libxml2.so.2.11.5
+7f21166cc000-7f21167aa000 r-xp 00032000 08:02 71320650                   /usr/lib/libxml2.so.2.11.5
+7f21167aa000-7f21167f3000 r--p 00110000 08:02 71320650                   /usr/lib/libxml2.so.2.11.5
+7f21167f3000-7f21167fe000 r--p 00158000 08:02 71320650                   /usr/lib/libxml2.so.2.11.5
+7f21167fe000-7f21167ff000 rw-p 00163000 08:02 71320650                   /usr/lib/libxml2.so.2.11.5
+7f21167ff000-7f2116800000 rw-p 00000000 00:00 0 
+7f2116800000-7f211689c000 r--p 00000000 08:02 71307363                   /usr/lib/libstdc++.so.6.0.32
+7f211689c000-7f21169d3000 r-xp 0009c000 08:02 71307363                   /usr/lib/libstdc++.so.6.0.32
+7f21169d3000-7f2116a69000 r--p 001d3000 08:02 71307363                   /usr/lib/libstdc++.so.6.0.32
+7f2116a69000-7f2116a76000 r--p 00269000 08:02 71307363                   /usr/lib/libstdc++.so.6.0.32
+7f2116a76000-7f2116a77000 rw-p 00276000 08:02 71307363                   /usr/lib/libstdc++.so.6.0.32
+7f2116a77000-7f2116a7b000 rw-p 00000000 00:00 0 
+7f2116a7c000-7f2116a7d000 rw-s 00000000 00:01 2970                       /memfd:xshmfence (deleted)
+7f2116a7d000-7f2116a7e000 rw-s 10f4de000 00:05 189                       /dev/dri/renderD128
+7f2116a7e000-7f2116a86000 rw-p 00000000 00:00 0 
+7f2116a86000-7f2116a89000 r--p 00000000 08:02 71317799                   /usr/lib/libcap.so.2.69
+7f2116a89000-7f2116a8e000 r-xp 00003000 08:02 71317799                   /usr/lib/libcap.so.2.69
+7f2116a8e000-7f2116a90000 r--p 00008000 08:02 71317799                   /usr/lib/libcap.so.2.69
+7f2116a90000-7f2116a91000 r--p 00009000 08:02 71317799                   /usr/lib/libcap.so.2.69
+7f2116a91000-7f2116a92000 rw-p 0000a000 08:02 71317799                   /usr/lib/libcap.so.2.69
+7f2116a92000-7f2116a97000 r--p 00000000 08:02 71319221                   /usr/lib/libudev.so.1.7.7
+7f2116a97000-7f2116aba000 r-xp 00005000 08:02 71319221                   /usr/lib/libudev.so.1.7.7
+7f2116aba000-7f2116ac7000 r--p 00028000 08:02 71319221                   /usr/lib/libudev.so.1.7.7
+7f2116ac7000-7f2116ac8000 r--p 00035000 08:02 71319221                   /usr/lib/libudev.so.1.7.7
+7f2116ac8000-7f2116ac9000 rw-p 00036000 08:02 71319221                   /usr/lib/libudev.so.1.7.7
+7f2116ac9000-7f2116acd000 r--p 00000000 08:02 71318282                   /usr/lib/liblzma.so.5.4.4
+7f2116acd000-7f2116aee000 r-xp 00004000 08:02 71318282                   /usr/lib/liblzma.so.5.4.4
+7f2116aee000-7f2116afa000 r--p 00025000 08:02 71318282                   /usr/lib/liblzma.so.5.4.4
+7f2116afa000-7f2116afb000 r--p 00031000 08:02 71318282                   /usr/lib/liblzma.so.5.4.4
+7f2116afb000-7f2116afc000 rw-p 00032000 08:02 71318282                   /usr/lib/liblzma.so.5.4.4
+7f2116afc000-7f2116aff000 r--p 00000000 08:02 71344360                   /usr/lib/libpciaccess.so.0.11.1
+7f2116aff000-7f2116b04000 r-xp 00003000 08:02 71344360                   /usr/lib/libpciaccess.so.0.11.1
+7f2116b04000-7f2116b06000 r--p 00008000 08:02 71344360                   /usr/lib/libpciaccess.so.0.11.1
+7f2116b06000-7f2116b07000 r--p 00009000 08:02 71344360                   /usr/lib/libpciaccess.so.0.11.1
+7f2116b07000-7f2116b08000 rw-p 0000a000 08:02 71344360                   /usr/lib/libpciaccess.so.0.11.1
+7f2116b08000-7f2116b1e000 r--p 00000000 08:02 71307426                   /usr/lib/libncursesw.so.6.4
+7f2116b1e000-7f2116b62000 r-xp 00016000 08:02 71307426                   /usr/lib/libncursesw.so.6.4
+7f2116b62000-7f2116b7a000 r--p 0005a000 08:02 71307426                   /usr/lib/libncursesw.so.6.4
+7f2116b7a000-7f2116b7e000 r--p 00072000 08:02 71307426                   /usr/lib/libncursesw.so.6.4
+7f2116b7e000-7f2116b7f000 rw-p 00076000 08:02 71307426                   /usr/lib/libncursesw.so.6.4
+7f2116b7f000-7f2116b88000 r--p 00000000 08:02 71337873                   /usr/lib/libedit.so.0.0.72
+7f2116b88000-7f2116ba7000 r-xp 00009000 08:02 71337873                   /usr/lib/libedit.so.0.0.72
+7f2116ba7000-7f2116bb5000 r--p 00028000 08:02 71337873                   /usr/lib/libedit.so.0.0.72
+7f2116bb5000-7f2116bb7000 r--p 00036000 08:02 71337873                   /usr/lib/libedit.so.0.0.72
+7f2116bb7000-7f2116bb8000 rw-p 00038000 08:02 71337873                   /usr/lib/libedit.so.0.0.72
+7f2116bb8000-7f2116bbb000 rw-p 00000000 00:00 0 
+7f2116bbb000-7f2116bbd000 r--p 00000000 08:02 71322219                   /usr/lib/libffi.so.8.1.2
+7f2116bbd000-7f2116bc3000 r-xp 00002000 08:02 71322219                   /usr/lib/libffi.so.8.1.2
+7f2116bc3000-7f2116bc4000 r--p 00008000 08:02 71322219                   /usr/lib/libffi.so.8.1.2
+7f2116bc4000-7f2116bc5000 r--p 00009000 08:02 71322219                   /usr/lib/libffi.so.8.1.2
+7f2116bc5000-7f2116bc6000 rw-p 0000a000 08:02 71322219                   /usr/lib/libffi.so.8.1.2
+7f2116bc6000-7f2116bc9000 r--p 00000000 08:02 71344379                   /usr/lib/libdrm_intel.so.1.0.0
+7f2116bc9000-7f2116bde000 r-xp 00003000 08:02 71344379                   /usr/lib/libdrm_intel.so.1.0.0
+7f2116bde000-7f2116be8000 r--p 00018000 08:02 71344379                   /usr/lib/libdrm_intel.so.1.0.0
+7f2116be8000-7f2116be9000 r--p 00021000 08:02 71344379                   /usr/lib/libdrm_intel.so.1.0.0
+7f2116be9000-7f2116bea000 rw-p 00022000 08:02 71344379                   /usr/lib/libdrm_intel.so.1.0.0
+7f2116bea000-7f2116bec000 r--p 00000000 08:02 71344382                   /usr/lib/libdrm_nouveau.so.2.0.0
+7f2116bec000-7f2116bf0000 r-xp 00002000 08:02 71344382                   /usr/lib/libdrm_nouveau.so.2.0.0
+7f2116bf0000-7f2116bf2000 r--p 00006000 08:02 71344382                   /usr/lib/libdrm_nouveau.so.2.0.0
+7f2116bf2000-7f2116bf3000 r--p 00007000 08:02 71344382                   /usr/lib/libdrm_nouveau.so.2.0.0
+7f2116bf3000-7f2116bf4000 rw-p 00008000 08:02 71344382                   /usr/lib/libdrm_nouveau.so.2.0.0
+7f2116bf4000-7f2116bf7000 r--p 00000000 08:02 71344376                   /usr/lib/libdrm_amdgpu.so.1.0.0
+7f2116bf7000-7f2116bfc000 r-xp 00003000 08:02 71344376                   /usr/lib/libdrm_amdgpu.so.1.0.0
+7f2116bfc000-7f2116bfe000 r--p 00008000 08:02 71344376                   /usr/lib/libdrm_amdgpu.so.1.0.0
+7f2116bfe000-7f2116bff000 r--p 00009000 08:02 71344376                   /usr/lib/libdrm_amdgpu.so.1.0.0
+7f2116bff000-7f2116c00000 rw-p 0000a000 08:02 71344376                   /usr/lib/libdrm_amdgpu.so.1.0.0
+7f2116c00000-7f2116c92000 r--p 00000000 08:02 71463769                   /usr/lib/dri/radeonsi_dri.so
+7f2116c92000-7f2118101000 r-xp 00092000 08:02 71463769                   /usr/lib/dri/radeonsi_dri.so
+7f2118101000-7f2118b9c000 r--p 01501000 08:02 71463769                   /usr/lib/dri/radeonsi_dri.so
+7f2118b9c000-7f2118c24000 r--p 01f9b000 08:02 71463769                   /usr/lib/dri/radeonsi_dri.so
+7f2118c24000-7f2118c34000 rw-p 02023000 08:02 71463769                   /usr/lib/dri/radeonsi_dri.so
+7f2118c34000-7f2118df2000 rw-p 00000000 00:00 0 
+7f2118df2000-7f2118df3000 rw-s 00000000 00:01 21228                      /memfd:xshmfence (deleted)
+7f2118df3000-7f2118df4000 rw-s 10f4dd000 00:05 189                       /dev/dri/renderD128
+7f2118df4000-7f2118df5000 rw-s 00000000 00:18 54944                      /dev/shm/mono.48426
+7f2118df5000-7f2118df6000 rw-s 112298000 00:05 189                       /dev/dri/renderD128
+7f2118df6000-7f2118dfa000 r--p 00000000 08:02 71327910                   /usr/lib/libelf-0.189.so
+7f2118dfa000-7f2118e0c000 r-xp 00004000 08:02 71327910                   /usr/lib/libelf-0.189.so
+7f2118e0c000-7f2118e10000 r--p 00016000 08:02 71327910                   /usr/lib/libelf-0.189.so
+7f2118e10000-7f2118e11000 r--p 0001a000 08:02 71327910                   /usr/lib/libelf-0.189.so
+7f2118e11000-7f2118e12000 rw-p 0001b000 08:02 71327910                   /usr/lib/libelf-0.189.so
+7f2118e12000-7f2118e14000 r--p 00000000 08:02 71344385                   /usr/lib/libdrm_radeon.so.1.0.1
+7f2118e14000-7f2118e1a000 r-xp 00002000 08:02 71344385                   /usr/lib/libdrm_radeon.so.1.0.1
+7f2118e1a000-7f2118e1e000 r--p 00008000 08:02 71344385                   /usr/lib/libdrm_radeon.so.1.0.1
+7f2118e1e000-7f2118e1f000 r--p 0000b000 08:02 71344385                   /usr/lib/libdrm_radeon.so.1.0.1
+7f2118e1f000-7f2118e20000 rw-p 0000c000 08:02 71344385                   /usr/lib/libdrm_radeon.so.1.0.1
+7f2118e20000-7f2118e23000 r--p 00000000 08:02 71344513                   /usr/lib/libsensors.so.5.0.0
+7f2118e23000-7f2118e2a000 r-xp 00003000 08:02 71344513                   /usr/lib/libsensors.so.5.0.0
+7f2118e2a000-7f2118e2e000 r--p 0000a000 08:02 71344513                   /usr/lib/libsensors.so.5.0.0
+7f2118e2e000-7f2118e2f000 r--p 0000e000 08:02 71344513                   /usr/lib/libsensors.so.5.0.0
+7f2118e2f000-7f2118e30000 rw-p 0000f000 08:02 71344513                   /usr/lib/libsensors.so.5.0.0
+7f2118e30000-7f2118e3c000 r--p 00000000 08:02 71318657                   /usr/lib/libzstd.so.1.5.5
+7f2118e3c000-7f2118eed000 r-xp 0000c000 08:02 71318657                   /usr/lib/libzstd.so.1.5.5
+7f2118eed000-7f2118f01000 r--p 000bd000 08:02 71318657                   /usr/lib/libzstd.so.1.5.5
+7f2118f01000-7f2118f02000 r--p 000d1000 08:02 71318657                   /usr/lib/libzstd.so.1.5.5
+7f2118f02000-7f2118f03000 rw-p 000d2000 08:02 71318657                   /usr/lib/libzstd.so.1.5.5
+7f2118f03000-7f2118f06000 r--p 00000000 08:02 71318236                   /usr/lib/libz.so.1.3
+7f2118f06000-7f2118f14000 r-xp 00003000 08:02 71318236                   /usr/lib/libz.so.1.3
+7f2118f14000-7f2118f1b000 r--p 00011000 08:02 71318236                   /usr/lib/libz.so.1.3
+7f2118f1b000-7f2118f1c000 r--p 00017000 08:02 71318236                   /usr/lib/libz.so.1.3
+7f2118f1c000-7f2118f1d000 rw-p 00018000 08:02 71318236                   /usr/lib/libz.so.1.3
+7f2118f1d000-7f2118f20000 r--p 00000000 08:02 71338195                   /usr/lib/libxcb-xfixes.so.0.0.0
+7f2118f20000-7f2118f23000 r-xp 00003000 08:02 71338195                   /usr/lib/libxcb-xfixes.so.0.0.0
+7f2118f23000-7f2118f24000 r--p 00006000 08:02 71338195                   /usr/lib/libxcb-xfixes.so.0.0.0
+7f2118f24000-7f2118f25000 r--p 00007000 08:02 71338195                   /usr/lib/libxcb-xfixes.so.0.0.0
+7f2118f25000-7f2118f26000 rw-p 00008000 08:02 71338195                   /usr/lib/libxcb-xfixes.so.0.0.0
+7f2118f26000-7f2118f29000 r--p 00000000 08:02 71338189                   /usr/lib/libxcb-sync.so.1.0.0
+7f2118f29000-7f2118f2c000 r-xp 00003000 08:02 71338189                   /usr/lib/libxcb-sync.so.1.0.0
+7f2118f2c000-7f2118f2d000 r--p 00006000 08:02 71338189                   /usr/lib/libxcb-sync.so.1.0.0
+7f2118f2d000-7f2118f2e000 r--p 00007000 08:02 71338189                   /usr/lib/libxcb-sync.so.1.0.0
+7f2118f2e000-7f2118f2f000 rw-p 00008000 08:02 71338189                   /usr/lib/libxcb-sync.so.1.0.0
+7f2118f2f000-7f2118f30000 r--p 00000000 08:02 71338165                   /usr/lib/libxcb-present.so.0.0.0
+7f2118f30000-7f2118f31000 r-xp 00001000 08:02 71338165                   /usr/lib/libxcb-present.so.0.0.0
+7f2118f31000-7f2118f32000 r--p 00002000 08:02 71338165                   /usr/lib/libxcb-present.so.0.0.0
+7f2118f32000-7f2118f33000 r--p 00002000 08:02 71338165                   /usr/lib/libxcb-present.so.0.0.0
+7f2118f33000-7f2118f34000 rw-p 00003000 08:02 71338165                   /usr/lib/libxcb-present.so.0.0.0
+7f2118f34000-7f2118f36000 r--p 00000000 08:02 71338159                   /usr/lib/libxcb-dri3.so.0.1.0
+7f2118f36000-7f2118f38000 r-xp 00002000 08:02 71338159                   /usr/lib/libxcb-dri3.so.0.1.0
+7f2118f38000-7f2118f39000 r--p 00004000 08:02 71338159                   /usr/lib/libxcb-dri3.so.0.1.0
+7f2118f39000-7f2118f3a000 r--p 00004000 08:02 71338159                   /usr/lib/libxcb-dri3.so.0.1.0
+7f2118f3a000-7f2118f3b000 rw-p 00005000 08:02 71338159                   /usr/lib/libxcb-dri3.so.0.1.0
+7f2118f3b000-7f2118f42000 r--p 00000000 08:02 71338168                   /usr/lib/libxcb-randr.so.0.1.0
+7f2118f42000-7f2118f48000 r-xp 00007000 08:02 71338168                   /usr/lib/libxcb-randr.so.0.1.0
+7f2118f48000-7f2118f4b000 r--p 0000d000 08:02 71338168                   /usr/lib/libxcb-randr.so.0.1.0
+7f2118f4b000-7f2118f4c000 r--p 00010000 08:02 71338168                   /usr/lib/libxcb-randr.so.0.1.0
+7f2118f4c000-7f2118f4d000 rw-p 00011000 08:02 71338168                   /usr/lib/libxcb-randr.so.0.1.0
+7f2118f4d000-7f2118f4e000 r--p 00000000 08:02 71344464                   /usr/lib/libxshmfence.so.1.0.0
+7f2118f4e000-7f2118f4f000 r-xp 00001000 08:02 71344464                   /usr/lib/libxshmfence.so.1.0.0
+7f2118f4f000-7f2118f50000 r--p 00002000 08:02 71344464                   /usr/lib/libxshmfence.so.1.0.0
+7f2118f50000-7f2118f51000 r--p 00002000 08:02 71344464                   /usr/lib/libxshmfence.so.1.0.0
+7f2118f51000-7f2118f52000 rw-p 00003000 08:02 71344464                   /usr/lib/libxshmfence.so.1.0.0
+7f2118f52000-7f2118f56000 r--p 00000000 08:02 71322148                   /usr/lib/libexpat.so.1.8.10
+7f2118f56000-7f2118f72000 r-xp 00004000 08:02 71322148                   /usr/lib/libexpat.so.1.8.10
+7f2118f72000-7f2118f7a000 r--p 00020000 08:02 71322148                   /usr/lib/libexpat.so.1.8.10
+7f2118f7a000-7f2118f7c000 r--p 00028000 08:02 71322148                   /usr/lib/libexpat.so.1.8.10
+7f2118f7c000-7f2118f7d000 rw-p 0002a000 08:02 71322148                   /usr/lib/libexpat.so.1.8.10
+7f2118f7d000-7f2118f7e000 r--p 00000000 08:02 71338186                   /usr/lib/libxcb-shm.so.0.0.0
+7f2118f7e000-7f2118f7f000 r-xp 00001000 08:02 71338186                   /usr/lib/libxcb-shm.so.0.0.0
+7f2118f7f000-7f2118f80000 r--p 00002000 08:02 71338186                   /usr/lib/libxcb-shm.so.0.0.0
+7f2118f80000-7f2118f81000 r--p 00002000 08:02 71338186                   /usr/lib/libxcb-shm.so.0.0.0
+7f2118f81000-7f2118f82000 rw-p 00003000 08:02 71338186                   /usr/lib/libxcb-shm.so.0.0.0
+7f2118f82000-7f2118f84000 r--p 00000000 08:02 71338156                   /usr/lib/libxcb-dri2.so.0.0.0
+7f2118f84000-7f2118f86000 r-xp 00002000 08:02 71338156                   /usr/lib/libxcb-dri2.so.0.0.0
+7f2118f86000-7f2118f87000 r--p 00004000 08:02 71338156                   /usr/lib/libxcb-dri2.so.0.0.0
+7f2118f87000-7f2118f88000 r--p 00004000 08:02 71338156                   /usr/lib/libxcb-dri2.so.0.0.0
+7f2118f88000-7f2118f89000 rw-p 00005000 08:02 71338156                   /usr/lib/libxcb-dri2.so.0.0.0
+7f2118f89000-7f2118f8a000 r--p 00000000 08:02 71340550                   /usr/lib/libX11-xcb.so.1.0.0
+7f2118f8a000-7f2118f8b000 r-xp 00001000 08:02 71340550                   /usr/lib/libX11-xcb.so.1.0.0
+7f2118f8b000-7f2118f8c000 r--p 00002000 08:02 71340550                   /usr/lib/libX11-xcb.so.1.0.0
+7f2118f8c000-7f2118f8d000 r--p 00002000 08:02 71340550                   /usr/lib/libX11-xcb.so.1.0.0
+7f2118f8d000-7f2118f8e000 rw-p 00003000 08:02 71340550                   /usr/lib/libX11-xcb.so.1.0.0
+7f2118f8e000-7f2118f9a000 r--p 00000000 08:02 71338162                   /usr/lib/libxcb-glx.so.0.0.0
+7f2118f9a000-7f2118fa3000 r-xp 0000c000 08:02 71338162                   /usr/lib/libxcb-glx.so.0.0.0
+7f2118fa3000-7f2118fa8000 r--p 00015000 08:02 71338162                   /usr/lib/libxcb-glx.so.0.0.0
+7f2118fa8000-7f2118faa000 r--p 0001a000 08:02 71338162                   /usr/lib/libxcb-glx.so.0.0.0
+7f2118faa000-7f2118fab000 rw-p 0001c000 08:02 71338162                   /usr/lib/libxcb-glx.so.0.0.0
+7f2118fab000-7f2118fb0000 r--p 00000000 08:02 71344373                   /usr/lib/libdrm.so.2.4.0
+7f2118fb0000-7f2118fbc000 r-xp 00005000 08:02 71344373                   /usr/lib/libdrm.so.2.4.0
+7f2118fbc000-7f2118fc0000 r--p 00011000 08:02 71344373                   /usr/lib/libdrm.so.2.4.0
+7f2118fc0000-7f2118fc1000 r--p 00015000 08:02 71344373                   /usr/lib/libdrm.so.2.4.0
+7f2118fc1000-7f2118fc2000 rw-p 00016000 08:02 71344373                   /usr/lib/libdrm.so.2.4.0
+7f2118fc2000-7f2118fcf000 r--p 00000000 08:02 71355877                   /usr/lib/libglapi.so.0.0.0
+7f2118fcf000-7f2118fdd000 r-xp 0000d000 08:02 71355877                   /usr/lib/libglapi.so.0.0.0
+7f2118fdd000-7f2118ff1000 r--p 0001b000 08:02 71355877                   /usr/lib/libglapi.so.0.0.0
+7f2118ff1000-7f2118ff5000 r--p 0002f000 08:02 71355877                   /usr/lib/libglapi.so.0.0.0
+7f2118ff5000-7f2118ff6000 rw-p 00033000 08:02 71355877                   /usr/lib/libglapi.so.0.0.0
+7f2118ff6000-7f211900f000 r--p 00000000 08:02 71344599                   /usr/lib/libGLX_mesa.so.0.0.0
+7f211900f000-7f2119054000 r-xp 00019000 08:02 71344599                   /usr/lib/libGLX_mesa.so.0.0.0
+7f2119054000-7f211906b000 r--p 0005e000 08:02 71344599                   /usr/lib/libGLX_mesa.so.0.0.0
+7f211906b000-7f211906e000 r--p 00074000 08:02 71344599                   /usr/lib/libGLX_mesa.so.0.0.0
+7f211906e000-7f211906f000 rw-p 00077000 08:02 71344599                   /usr/lib/libGLX_mesa.so.0.0.0
+7f211906f000-7f2119070000 r--p 00000000 08:02 71344468                   /usr/lib/libXxf86vm.so.1.0.0
+7f2119070000-7f2119073000 r-xp 00001000 08:02 71344468                   /usr/lib/libXxf86vm.so.1.0.0
+7f2119073000-7f2119074000 r--p 00004000 08:02 71344468                   /usr/lib/libXxf86vm.so.1.0.0
+7f2119074000-7f2119075000 r--p 00004000 08:02 71344468                   /usr/lib/libXxf86vm.so.1.0.0
+7f2119075000-7f2119076000 rw-p 00005000 08:02 71344468                   /usr/lib/libXxf86vm.so.1.0.0
+7f2119076000-7f2119077000 r--p 00000000 08:02 71345613                   /usr/lib/libXss.so.1.0.0
+7f2119077000-7f2119078000 r-xp 00001000 08:02 71345613                   /usr/lib/libXss.so.1.0.0
+7f2119078000-7f2119079000 r--p 00002000 08:02 71345613                   /usr/lib/libXss.so.1.0.0
+7f2119079000-7f211907a000 r--p 00002000 08:02 71345613                   /usr/lib/libXss.so.1.0.0
+7f211907a000-7f211907b000 rw-p 00003000 08:02 71345613                   /usr/lib/libXss.so.1.0.0
+7f211907b000-7f211907d000 r--p 00000000 08:02 71344729                   /usr/lib/libXrandr.so.2.2.0
+7f211907d000-7f2119084000 r-xp 00002000 08:02 71344729                   /usr/lib/libXrandr.so.2.2.0
+7f2119084000-7f2119086000 r--p 00009000 08:02 71344729                   /usr/lib/libXrandr.so.2.2.0
+7f2119086000-7f2119087000 r--p 0000a000 08:02 71344729                   /usr/lib/libXrandr.so.2.2.0
+7f2119087000-7f2119088000 rw-p 0000b000 08:02 71344729                   /usr/lib/libXrandr.so.2.2.0
+7f2119088000-7f211908b000 r--p 00000000 08:02 71343090                   /usr/lib/libXi.so.6.1.0
+7f211908b000-7f2119097000 r-xp 00003000 08:02 71343090                   /usr/lib/libXi.so.6.1.0
+7f2119097000-7f211909a000 r--p 0000f000 08:02 71343090                   /usr/lib/libXi.so.6.1.0
+7f211909a000-7f211909b000 r--p 00011000 08:02 71343090                   /usr/lib/libXi.so.6.1.0
+7f211909b000-7f211909c000 rw-p 00012000 08:02 71343090                   /usr/lib/libXi.so.6.1.0
+7f211909c000-7f211909d000 r--p 00000000 08:02 71344719                   /usr/lib/libXinerama.so.1.0.0
+7f211909d000-7f211909e000 r-xp 00001000 08:02 71344719                   /usr/lib/libXinerama.so.1.0.0
+7f211909e000-7f211909f000 r--p 00002000 08:02 71344719                   /usr/lib/libXinerama.so.1.0.0
+7f211909f000-7f21190a0000 r--p 00002000 08:02 71344719                   /usr/lib/libXinerama.so.1.0.0
+7f21190a0000-7f21190a1000 rw-p 00003000 08:02 71344719                   /usr/lib/libXinerama.so.1.0.0
+7f21190a1000-7f21190a3000 r--p 00000000 08:02 71343085                   /usr/lib/libXfixes.so.3.1.0
+7f21190a3000-7f21190a6000 r-xp 00002000 08:02 71343085                   /usr/lib/libXfixes.so.3.1.0
+7f21190a6000-7f21190a7000 r--p 00005000 08:02 71343085                   /usr/lib/libXfixes.so.3.1.0
+7f21190a7000-7f21190a8000 r--p 00006000 08:02 71343085                   /usr/lib/libXfixes.so.3.1.0
+7f21190a8000-7f21190a9000 rw-p 00007000 08:02 71343085                   /usr/lib/libXfixes.so.3.1.0
+7f21190a9000-7f21190ab000 r--p 00000000 08:02 71342116                   /usr/lib/libXrender.so.1.3.0
+7f21190ab000-7f21190b2000 r-xp 00002000 08:02 71342116                   /usr/lib/libXrender.so.1.3.0
+7f21190b2000-7f21190b4000 r--p 00009000 08:02 71342116                   /usr/lib/libXrender.so.1.3.0
+7f21190b4000-7f21190b5000 r--p 0000a000 08:02 71342116                   /usr/lib/libXrender.so.1.3.0
+7f21190b5000-7f21190b6000 rw-p 0000b000 08:02 71342116                   /usr/lib/libXrender.so.1.3.0
+7f21190b6000-7f21190b9000 r--p 00000000 08:02 71344655                   /usr/lib/libXcursor.so.1.0.2
+7f21190b9000-7f21190be000 r-xp 00003000 08:02 71344655                   /usr/lib/libXcursor.so.1.0.2
+7f21190be000-7f21190c0000 r--p 00008000 08:02 71344655                   /usr/lib/libXcursor.so.1.0.2
+7f21190c0000-7f21190c1000 r--p 00009000 08:02 71344655                   /usr/lib/libXcursor.so.1.0.2
+7f21190c1000-7f21190c2000 rw-p 0000a000 08:02 71344655                   /usr/lib/libXcursor.so.1.0.2
+7f21190c2000-7f21190c6000 r--p 00000000 08:02 71341378                   /usr/lib/libXext.so.6.4.0
+7f21190c6000-7f21190d1000 r-xp 00004000 08:02 71341378                   /usr/lib/libXext.so.6.4.0
+7f21190d1000-7f21190d5000 r--p 0000f000 08:02 71341378                   /usr/lib/libXext.so.6.4.0
+7f21190d5000-7f21190d6000 r--p 00012000 08:02 71341378                   /usr/lib/libXext.so.6.4.0
+7f21190d6000-7f21190d7000 rw-p 00013000 08:02 71341378                   /usr/lib/libXext.so.6.4.0
+7f21190d7000-7f21190d8000 ---p 00000000 00:00 0 
+7f21190d8000-7f2119919000 rw-p 00000000 00:00 0 
+7f2119919000-7f211994a000 rw-s 00000000 00:18 54943                      /dev/shm/u1000-Shm_fba1a159
+7f211994a000-7f211a94b000 rw-s 00000000 00:18 54942                      /dev/shm/u1000-Shm_ec5d5eff
+7f211a94b000-7f211a9ef000 rw-p 00000000 00:00 0 
+7f211a9ef000-7f211aaf0000 rw-s 00000000 00:18 54941                      /dev/shm/u1000-Shm_c054505f
+7f211aaf0000-7f211ab71000 rw-s 00000000 00:18 54940                      /dev/shm/u1000-Shm_41918f8
+7f211ab71000-7f211ad71000 rw-s 00000000 00:18 6494                       /dev/shm/u1000-ValveIPCSharedObj-Steam
+7f211ad71000-7f211adb7000 rw-p 00000000 00:00 0 
+7f211adb7000-7f211adb9000 r--p 00000000 08:02 71338127                   /usr/lib/libXdmcp.so.6.0.0
+7f211adb9000-7f211adbb000 r-xp 00002000 08:02 71338127                   /usr/lib/libXdmcp.so.6.0.0
+7f211adbb000-7f211adbd000 r--p 00004000 08:02 71338127                   /usr/lib/libXdmcp.so.6.0.0
+7f211adbd000-7f211adbe000 r--p 00005000 08:02 71338127                   /usr/lib/libXdmcp.so.6.0.0
+7f211adbe000-7f211adbf000 rw-p 00006000 08:02 71338127                   /usr/lib/libXdmcp.so.6.0.0
+7f211adbf000-7f211adc0000 r--p 00000000 08:02 71338131                   /usr/lib/libXau.so.6.0.0
+7f211adc0000-7f211adc1000 r-xp 00001000 08:02 71338131                   /usr/lib/libXau.so.6.0.0
+7f211adc1000-7f211adc2000 r--p 00002000 08:02 71338131                   /usr/lib/libXau.so.6.0.0
+7f211adc2000-7f211adc3000 r--p 00002000 08:02 71338131                   /usr/lib/libXau.so.6.0.0
+7f211adc3000-7f211adc4000 rw-p 00003000 08:02 71338131                   /usr/lib/libXau.so.6.0.0
+7f211adc4000-7f211add0000 r--p 00000000 08:02 71338216                   /usr/lib/libxcb.so.1.1.0
+7f211add0000-7f211ade4000 r-xp 0000c000 08:02 71338216                   /usr/lib/libxcb.so.1.1.0
+7f211ade4000-7f211aded000 r--p 00020000 08:02 71338216                   /usr/lib/libxcb.so.1.1.0
+7f211aded000-7f211adee000 r--p 00028000 08:02 71338216                   /usr/lib/libxcb.so.1.1.0
+7f211adee000-7f211adef000 rw-p 00029000 08:02 71338216                   /usr/lib/libxcb.so.1.1.0
+7f211adef000-7f211ae0b000 r--p 00000000 08:02 71340554                   /usr/lib/libX11.so.6.4.0
+7f211ae0b000-7f211ae96000 r-xp 0001c000 08:02 71340554                   /usr/lib/libX11.so.6.4.0
+7f211ae96000-7f211af2b000 r--p 000a7000 08:02 71340554                   /usr/lib/libX11.so.6.4.0
+7f211af2b000-7f211af2e000 r--p 0013b000 08:02 71340554                   /usr/lib/libX11.so.6.4.0
+7f211af2e000-7f211af32000 rw-p 0013e000 08:02 71340554                   /usr/lib/libX11.so.6.4.0
+7f211af32000-7f211af35000 r--p 00000000 08:02 71344624                   /usr/lib/libGLX.so.0.0.0
+7f211af35000-7f211af4f000 r-xp 00003000 08:02 71344624                   /usr/lib/libGLX.so.0.0.0
+7f211af4f000-7f211af52000 r--p 0001d000 08:02 71344624                   /usr/lib/libGLX.so.0.0.0
+7f211af52000-7f211af53000 r--p 00020000 08:02 71344624                   /usr/lib/libGLX.so.0.0.0
+7f211af53000-7f211af54000 rw-p 00021000 08:02 71344624                   /usr/lib/libGLX.so.0.0.0
+7f211af54000-7f211af64000 rw-p 00000000 00:00 0 
+7f211af64000-7f211afa5000 r--p 00000000 08:02 71344627                   /usr/lib/libGLdispatch.so.0.0.0
+7f211afa5000-7f211afe4000 r-xp 00041000 08:02 71344627                   /usr/lib/libGLdispatch.so.0.0.0
+7f211afe4000-7f211aff7000 r--p 00080000 08:02 71344627                   /usr/lib/libGLdispatch.so.0.0.0
+7f211aff7000-7f211b013000 r--p 00093000 08:02 71344627                   /usr/lib/libGLdispatch.so.0.0.0
+7f211b013000-7f211b014000 rw-p 000af000 08:02 71344627                   /usr/lib/libGLdispatch.so.0.0.0
+7f211b014000-7f211b01e000 rw-p 00000000 00:00 0 
+7f211b01e000-7f211b044000 r--p 00000000 08:02 71306543                   /usr/lib/libc.so.6
+7f211b044000-7f211b19e000 r-xp 00026000 08:02 71306543                   /usr/lib/libc.so.6
+7f211b19e000-7f211b1f2000 r--p 00180000 08:02 71306543                   /usr/lib/libc.so.6
+7f211b1f2000-7f211b1f6000 r--p 001d3000 08:02 71306543                   /usr/lib/libc.so.6
+7f211b1f6000-7f211b1f8000 rw-p 001d7000 08:02 71306543                   /usr/lib/libc.so.6
+7f211b1f8000-7f211b200000 rw-p 00000000 00:00 0 
+7f211b200000-7f211b985000 r--p 00000000 08:02 58474119                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so
+7f211b985000-7f211d118000 r-xp 00785000 08:02 58474119                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so
+7f211d118000-7f211d1b3000 r--p 01f18000 08:02 58474119                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so
+7f211d1b3000-7f211d1e2000 rw-p 01fb3000 08:02 58474119                   /home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so
+7f211d1e2000-7f211d2ea000 rw-p 00000000 00:00 0 
+7f211d2ea000-7f211d32c000 r--p 00000000 08:02 71344616                   /usr/lib/libGL.so.1.7.0
+7f211d32c000-7f211d34b000 r-xp 00042000 08:02 71344616                   /usr/lib/libGL.so.1.7.0
+7f211d34b000-7f211d360000 r--p 00061000 08:02 71344616                   /usr/lib/libGL.so.1.7.0
+7f211d360000-7f211d36e000 r--p 00075000 08:02 71344616                   /usr/lib/libGL.so.1.7.0
+7f211d36e000-7f211d36f000 rw-p 00083000 08:02 71344616                   /usr/lib/libGL.so.1.7.0
+7f211d36f000-7f211d370000 rw-p 00000000 00:00 0 
+7f211d370000-7f211d371000 r--p 00000000 08:02 71306599                   /usr/lib/librt.so.1
+7f211d371000-7f211d372000 r-xp 00001000 08:02 71306599                   /usr/lib/librt.so.1
+7f211d372000-7f211d373000 r--p 00002000 08:02 71306599                   /usr/lib/librt.so.1
+7f211d373000-7f211d374000 r--p 00002000 08:02 71306599                   /usr/lib/librt.so.1
+7f211d374000-7f211d375000 rw-p 00003000 08:02 71306599                   /usr/lib/librt.so.1
+7f211d375000-7f211d376000 r--p 00000000 08:02 71306554                   /usr/lib/libdl.so.2
+7f211d376000-7f211d377000 r-xp 00001000 08:02 71306554                   /usr/lib/libdl.so.2
+7f211d377000-7f211d378000 r--p 00002000 08:02 71306554                   /usr/lib/libdl.so.2
+7f211d378000-7f211d379000 r--p 00002000 08:02 71306554                   /usr/lib/libdl.so.2
+7f211d379000-7f211d37a000 rw-p 00003000 08:02 71306554                   /usr/lib/libdl.so.2
+7f211d37a000-7f211d37b000 r--p 00000000 08:02 71306594                   /usr/lib/libpthread.so.0
+7f211d37b000-7f211d37c000 r-xp 00001000 08:02 71306594                   /usr/lib/libpthread.so.0
+7f211d37c000-7f211d37d000 r--p 00002000 08:02 71306594                   /usr/lib/libpthread.so.0
+7f211d37d000-7f211d37e000 r--p 00002000 08:02 71306594                   /usr/lib/libpthread.so.0
+7f211d37e000-7f211d37f000 rw-p 00003000 08:02 71306594                   /usr/lib/libpthread.so.0
+7f211d37f000-7f211d381000 rw-p 00000000 00:00 0 
+7f211d381000-7f211d385000 r--p 00000000 08:02 71307333                   /usr/lib/libgcc_s.so.1
+7f211d385000-7f211d3a0000 r-xp 00004000 08:02 71307333                   /usr/lib/libgcc_s.so.1
+7f211d3a0000-7f211d3a4000 r--p 0001f000 08:02 71307333                   /usr/lib/libgcc_s.so.1
+7f211d3a4000-7f211d3a5000 r--p 00022000 08:02 71307333                   /usr/lib/libgcc_s.so.1
+7f211d3a5000-7f211d3a6000 rw-p 00023000 08:02 71307333                   /usr/lib/libgcc_s.so.1
+7f211d3a6000-7f211d3b6000 r--p 00000000 08:02 71306561                   /usr/lib/libm.so.6
+7f211d3b6000-7f211d435000 r-xp 00010000 08:02 71306561                   /usr/lib/libm.so.6
+7f211d435000-7f211d491000 r--p 0008f000 08:02 71306561                   /usr/lib/libm.so.6
+7f211d491000-7f211d492000 r--p 000ea000 08:02 71306561                   /usr/lib/libm.so.6
+7f211d492000-7f211d493000 rw-p 000eb000 08:02 71306561                   /usr/lib/libm.so.6
+7f211d493000-7f211d4dc000 r-xp 00000000 08:02 57818013                   /home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
+7f211d4dc000-7f211d4dd000 ---p 00049000 08:02 57818013                   /home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
+7f211d4dd000-7f211d4df000 r--p 00049000 08:02 57818013                   /home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
+7f211d4df000-7f211d4e0000 rw-p 0004b000 08:02 57818013                   /home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
+7f211d4e0000-7f211d4e5000 rw-p 00000000 00:00 0 
+7f211d4e5000-7f211d4e6000 r--p 00000000 08:02 71306529                   /usr/lib/ld-linux-x86-64.so.2
+7f211d4e6000-7f211d50c000 r-xp 00001000 08:02 71306529                   /usr/lib/ld-linux-x86-64.so.2
+7f211d50c000-7f211d516000 r--p 00027000 08:02 71306529                   /usr/lib/ld-linux-x86-64.so.2
+7f211d516000-7f211d518000 r--p 00031000 08:02 71306529                   /usr/lib/ld-linux-x86-64.so.2
+7f211d518000-7f211d51a000 rw-p 00033000 08:02 71306529                   /usr/lib/ld-linux-x86-64.so.2
+7ffe3fadb000-7ffe3fae3000 ---p 00000000 00:00 0 
+7ffe402af000-7ffe402da000 rw-p 00000000 00:00 0                          [stack]
+7ffe4033f000-7ffe40343000 r--p 00000000 00:00 0                          [vvar]
+7ffe40343000-7ffe40345000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+
+Native stacktrace:
+
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so(+0xd8314) [0x7f21106d8314]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/Unturned_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so(+0x5c0b7) [0x7f211065c0b7]
+	/usr/lib/libc.so.6(+0x3e710) [0x7f211b05c710]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(+0x27752) [0x7f211d4ba752]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(+0x19dd5) [0x7f211d4acdd5]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(+0x23994) [0x7f211d4b6994]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(+0x24152) [0x7f211d4b7152]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(+0x25a6b) [0x7f211d4b8a6b]
+	/home/n1ce/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so(glXSwapBuffers+0x55) [0x7f211d4a9115]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0x1876f8a) [0x7f211ca76f8a]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0xb13af2) [0x7f211bd13af2]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0xb1f799) [0x7f211bd1f799]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0x1655aad) [0x7f211c855aad]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0x16567ff) [0x7f211c8567ff]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0x164caf5) [0x7f211c84caf5]
+	/home/n1ce/.local/share/Steam/steamapps/common/Unturned/UnityPlayer.so(+0xf2f37a) [0x7f211c12f37a]
+	/usr/lib/libc.so.6(+0x8c9eb) [0x7f211b0aa9eb]
+	/usr/lib/libc.so.6(+0x1107cc) [0x7f211b12e7cc]
+
+Debug info from gdb:
+
+mono_gdb_render_native_backtraces not supported on this platform, unable to find gdb or lldb
+src/tier0/threadtools.cpp (3690) : Assertion Failed: Illegal termination of worker thread 'SocketThread'
+10/10 01:36:39 Init: Installing breakpad exception handler for appid(unturned)/version(1.0)/tid(49303)
+10/10 01:36:39 ERROR: execv failed when trying to send minidump
+10/10 01:36:39 ERROR: Could not run steamerrorreporter binary. Uploading minidump in-process
+10/10 01:36:39 Uploading dump (in-process) [url 'https://crash.steampowered.com/submit', proxy '']
+/tmp/dumps/assert_20231010013639_4.dmp
+10/10 01:36:40 success = yes
+10/10 01:36:40 response:  Discarded=1

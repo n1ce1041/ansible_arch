@@ -1,0 +1,29 @@
+---
+- hosts: all
+  become: true
+  pre_tasks:
+    - name: Update Repository Cache
+      tags: always
+      pacman:
+        update_cache: yes
+
+- hosts: all
+  become: true
+  roles:
+    - base
+
+- hosts: all
+  become: true
+  roles:
+    - daily
+
+- hosts: all
+  become: true
+  roles:
+    - dotfiles
+
+- hosts: all
+  become: true
+  roles:
+    - backup
+

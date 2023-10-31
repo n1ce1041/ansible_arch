@@ -1,0 +1,17 @@
+---
+- name: copy package list over
+  copy:
+    src: files/installed_packages.txt
+    dest: /home/n1ce 
+
+- name: read files
+  command: cat /home/n1ce/installed_packages.txt
+  register: package_list_content
+  changed_when: false
+      
+- name: install packages from file
+  pacman:
+    name: "{{ item }}"
+    state: present
+  loop: "{{ package_list_content.stdout_lines }}"
+

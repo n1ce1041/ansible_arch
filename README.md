@@ -1,3 +1,17 @@
 # ansible_arch
 
-Playbooks to automate maintenance and configuration of my arch-linux distro. Note, this is for my machine, if you use this be sure to make adjustments for your use case.
+Playbooks to automate maintenance and configuration of my arch-linux (btw) distro.
+
+## Dependencies 
+
+Requires ansible-aur, install with 
+
+```ansible-galaxy collection install kewlfft.aur```
+
+## Playbooks 
+
+- Bootstrap: For first time setup, installing all packages and initial configs
+
+- Daily: Daily state to keep up to date
+
+- Backup: Run as needed to backup files to /srv/

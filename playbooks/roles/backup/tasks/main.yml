@@ -1,0 +1,18 @@
+- name: Create backup dir if it doesnt exist
+  file:
+    path: /srv/rsync/backups/
+    state: directory
+  become: true
+
+- name: delete old backups
+  command: /srv/rsync/backups -type f -name "*.tar.gz" -mtime +2 -exec rm {} \;
+  ignore_errors: yes
+  become: true
+
+- name: Create a backup of /home/ 
+  command: tar -czf  /srv/rsync/backups/home-backup-{{ ansible_date_time.date }}.tar.gz /home
+  become: true
+
+- name: Create a backup of /etc/ 
+  command: tar -czf /srv/rsync/backups/etc-backup-{{ ansible_date_time.date }}.tar.gz /etc
+  become: true

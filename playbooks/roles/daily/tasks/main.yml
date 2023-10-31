@@ -1,0 +1,55 @@
+---
+- name: update pacman repo cache
+  pacman:
+    update_cache: yes
+
+- name: Change conf
+  tags: ssh
+  template:
+    src: files/pacman.j2
+    dest: /etc/pacman.conf
+    owner: root
+    group: root
+    mode: 0644
+
+- name: Clean journalctl logs and pacman cache
+  command: paccache -r --keep 2
+  command: journalctl --vacuum-time 4
+
+
+- name: build bumblebee i3
+  kewlfft.aur.aur:
+    name: bumblebee-status
+    use: makepkg
+    state: present
+  become: yes
+  become_user: aur_builder
+
+
+- name: build st 
+  kewlfft.aur.aur:
+    name: st
+    use: makepkg
+    state: present
+  become: yes
+  become_user: aur_builder
+
+- name: grab custom font dependencies
+  git:
+    repo: https://github.com/powerline/fonts.git
+    dest: /home/n1ce/projects/fonts
+    update: yes
+
+- name: build custom fonts
+  command: ./install.sh
+  become: yes
+  args: 
+    chdir: /home/n1ce/projects/fonts
+
+- name: build brave
+  kewlfft.aur.aur:
+    name: brave-bin
+    use: makepkg
+    state: present
+  become: yes
+  become_user: aur_builder

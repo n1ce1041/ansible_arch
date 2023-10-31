@@ -1,0 +1,5 @@
+---
+
+- name: font_refresh
+  command: fc-cache
+

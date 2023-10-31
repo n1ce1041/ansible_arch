@@ -1,0 +1,195 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 633,
+      "width": 1080,
+      "x": 0,
+      "y": 23
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 615,
+      "width": 1076,
+      "x": 2,
+      "y": 39
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 615,
+      "width": 1076,
+      "x": 2,
+      "y": 39
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAFwAABDcAAAKPAAAAAgAAACcAAAQ1AAACjQAAAAIAAAAABDgAAAACAAAAJwAABDUAAAKN"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1920,
+        "width": 1080,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 2,
+      "manufacturer": "Dell Inc.",
+      "model": "DELL P2312H",
+      "name": "HDMI-A-0",
+      "serial": "511CP258732M",
+      "size_in_logical_pixels": {
+        "height": 1920,
+        "width": 1080
+      },
+      "virtual_geometry": {
+        "height": 1920,
+        "width": 4920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 142,
+      "width": 721,
+      "x": 3592,
+      "y": 438
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 124,
+      "width": 717,
+      "x": 3594,
+      "y": 454
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 124,
+      "width": 717,
+      "x": 3594,
+      "y": 454
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAA4IAAABtgAAENgAAAJDAAAOCgAAAcYAABDWAAACQQAAAAEAAAAAB4AAAA4KAAABxgAAENYAAAJB"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 3000,
+        "y": 0
+      },
+      "index_in_screens_list": 1,
+      "manufacturer": "LG Electronics",
+      "model": "LG FULL HD",
+      "name": "DisplayPort-0",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1920,
+        "width": 4920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANIA////AAAENAAAAmcAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 24,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Aditya Y. Bhargava"
+        ],
+        "key": "/home/n1ce/Calibre Library/Aditya Y. Bhargava/Grokking Algorithms_ An illustrated guide for programmers and other curious people (12)/Grokking Algorithms_ An illustrated guide - Aditya Y. Bhargava.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/Aditya Y. Bhargava/Grokking Algorithms_ An illustrated guide for programmers and other curious people (12)/Grokking Algorithms_ An illustrated guide - Aditya Y. Bhargava.epub",
+        "timestamp": "2023-10-18T08:18:41.247Z",
+        "title": "Grokking Algorithms: An illustrated guide for programmers and other curious people"
+      },
+      {
+        "authors": [
+          "John Canning",
+          "Alan Broder",
+          "Robert Lafore"
+        ],
+        "key": "/home/n1ce/Calibre Library/John Canning/Data Structures & Algorithms in Python (10)/Data Structures & Algorithms in Python - John Canning.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/John Canning/Data Structures & Algorithms in Python (10)/Data Structures & Algorithms in Python - John Canning.epub",
+        "timestamp": "2023-10-16T08:04:15.226Z",
+        "title": "Data Structures & Algorithms in Python"
+      },
+      {
+        "authors": [
+          "Aditya Y. Bhargava"
+        ],
+        "key": "/home/n1ce/Calibre Library/Aditya Y. Bhargava/Grokking Algorithms (9)/Grokking Algorithms - Aditya Y. Bhargava.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/Aditya Y. Bhargava/Grokking Algorithms (9)/Grokking Algorithms - Aditya Y. Bhargava.epub",
+        "timestamp": "2023-10-16T08:00:41.439Z",
+        "title": "Grokking Algorithms"
+      },
+      {
+        "key": "/home/n1ce/Calibre Library/Unknown/Impractical Python Projects Playful Programming_. (Z-Library) (5)/Impractical Python Projects Playful Progra - Unknown.pdf",
+        "pathtoebook": "/home/n1ce/Calibre Library/Unknown/Impractical Python Projects Playful Programming_. (Z-Library) (5)/Impractical Python Projects Playful Progra - Unknown.pdf",
+        "timestamp": "2023-10-05T00:35:08.744Z",
+        "title": "Impractical Python Projects Playful Progra"
+      },
+      {
+        "authors": [
+          "Al Sweigart"
+        ],
+        "key": "/home/n1ce/Calibre Library/Al Sweigart/The Big Book of Small Python Projects (8)/The Big Book of Small Python Projects - Al Sweigart.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/Al Sweigart/The Big Book of Small Python Projects (8)/The Big Book of Small Python Projects - Al Sweigart.epub",
+        "timestamp": "2023-10-05T00:15:44.271Z",
+        "title": "The Big Book of Small Python Projects"
+      },
+      {
+        "authors": [
+          "David M. Beazley"
+        ],
+        "key": "/home/n1ce/Calibre Library/David M. Beazley/Python Distilled (7)/Python Distilled - David M. Beazley.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/David M. Beazley/Python Distilled (7)/Python Distilled - David M. Beazley.epub",
+        "timestamp": "2023-10-04T00:33:15.682Z",
+        "title": "Python Distilled"
+      },
+      {
+        "authors": [
+          "Leonora F.S. Tindall",
+          "Jason Orendorff",
+          "Jim Blandy"
+        ],
+        "key": "/home/n1ce/Calibre Library/Leonora F.S. Tindall/Programming Rust, 2nd Edition (3)/Programming Rust, 2nd Edition - Leonora F.S. Tindall.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/Leonora F.S. Tindall/Programming Rust, 2nd Edition (3)/Programming Rust, 2nd Edition - Leonora F.S. Tindall.epub",
+        "timestamp": "2023-10-02T23:23:25.173Z",
+        "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Ken Youens-Clark"
+        ],
+        "key": "/home/n1ce/Calibre Library/Ken Youens-Clark/Command-Line Rust (2)/Command-Line Rust - Ken Youens-Clark.epub",
+        "pathtoebook": "/home/n1ce/Calibre Library/Ken Youens-Clark/Command-Line Rust (2)/Command-Line Rust - Ken Youens-Clark.epub",
+        "timestamp": "2023-10-02T23:14:05.230Z",
+        "title": "Command-Line Rust"
+      }
+    ]
+  }
+}

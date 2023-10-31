@@ -1,0 +1,5 @@
+- name: copy_dotfiles
+  copy: 
+    src: "{{ role_path }}/files/"
+    dest: "/home/n1ce/.config/"
+  notify: restart_i3
