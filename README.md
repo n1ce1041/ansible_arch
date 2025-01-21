@@ -1,6 +1,6 @@
 # ansible_arch
 
-Playbooks to automate maintenance and configuration of my arch-linux (btw) distro.
+Learning ansible a tad and made this toy project to automate maintenance and configuration of my arch-linux (btw) distro.
 
 ## Dependencies 
 
